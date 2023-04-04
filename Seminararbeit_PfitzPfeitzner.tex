@@ -1,0 +1,91 @@
+\documentclass[a4paper,
+			   11pt,
+			   ngerman, 
+			   headsepline]{scrreprt}
+
+\usepackage[left=1.5cm,right=1.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{lipsum}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage[section]{placeins}
+\usepackage{fontenc}
+\usepackage{scrlayer-scrpage}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[backend=biber,style=alphabetic]{biblatex}
+
+\addbibresource{ref/ref.bib}
+
+\begin{document}
+	\pagestyle{scrheadings} 
+	%%%%%%%%% KOPFZEILE %%%%%%%%%%%%%%%%%%%%%
+	\ohead{\includegraphics[height=45pt]{bilder/thi.png.png}}
+
+	%%%%%%%%% KOPF %%%%%%%%%%%%%%%%%%%%%%%%%%
+	\title{Seminararbeit}
+	\subtitle{Sensorik-gestützte Robotik-Systeme zur Automatisierung landwirtschaftlicher Prozesse}
+	\author{Nico Elsner\\
+	Studiengang: Robotik}
+	\date{\today}
+	\maketitle
+	\tableofcontents
+	\thispagestyle{empty}
+	%%%%%%%%%% EINLEITUNG %%%%%%%%%%%%%%%%%%%
+	\newpage
+	\setcounter{page}{1}
+	\chapter{Einleitung}
+	\input{kapitel/einleitung}
+	\chapter{Hauptteil}
+	\input{kapitel/hauptteil}
+	
+	%%%%%%%%%%% ÜBERGREIFENDE SYSTEME %%%%%%%
+	\section{Systeme}
+		\subsection{Drohnen}
+		\input{kapitel/drohnen}
+		\subsection{Schienensysteme}
+		\input{kapitel/schienensysteme}
+		\subsection{Roboterfahrzeuge}
+		\input{kapitel/roboterfahrzeuge}
+
+	%%%%%%%%%%% BENÖTIGTE SENSOREN %%%%%%%%%%
+	\section{Sensorik}
+	
+		\subsection{Temperatursensor}
+		\input{kapitel/temperatursensor}
+		\cite{oriolplanas2021}
+		\subsection{Bodenfeuchtigkeitssensor}
+		\input{kapitel/bodenfeuchtigkeitssensor.tex}
+		\subsection{Mineralsensor}
+		\input{kapitel/mineralsensor}
+	
+	%%%%%%%%%%% ANWENDUNGEN %%%%%%%%%%%%%%%%%
+	\section{Anwendungen in der Landwirtschaft}
+		
+		\subsection{Saat und Ernte}
+		\input{kapitel/ernteundsaat}
+		
+		\subsection{Tierpflege}
+		\input{kapitel/tierpflege}
+		
+		\subsection{Bodenpflege}
+		\input{kapitel/bodenpflege}
+		
+		\subsection{Bewässerung}
+		\input{kapitel/bewaesserung}
+		
+		\subsection{Schädlingsbekämpfung}
+		\input{kapitel/schaedlingsbekaempfung}
+	%%%%%%%%%%%% HERAUSFORDERUNGEN %%%%%%%%%%
+	\section{Herausforderungen}
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	%%%%%%%%%%% FAZIT %%%%%%%%%%%%%%%%%%%%%%%
+	\chapter{Fazit}
+	\input{kapitel/fazit}
+	
+	%%%%%%%%%%% INHALTSVERZEICHNIS %%%%%%%%%%
+	\printbibliography
+	
+	%%%%%%%%%%% ABBILDUNGSVERZEICHNIS %%%%%%%
+	\listoffigures
+	test
+\end{document}
