@@ -1,0 +1,110 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{donaukurier2022}{article}{}
+      \field{labelalpha}{22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Donaukurier}
+      \field{title}{Roboter auf dem Feld}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.donaukurier.de/archiv/roboter-auf-dem-feld-6203116
+      \endverb
+      \verb{url}
+      \verb https://www.donaukurier.de/archiv/roboter-auf-dem-feld-6203116
+      \endverb
+    \endentry
+    \entry{oriolplanas2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2eb61760d42eb59924472b1f919fba72}{%
+           family={Planas},
+           familyi={P\bibinitperiod},
+           given={Oriol},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{2eb61760d42eb59924472b1f919fba72}
+      \strng{fullhash}{2eb61760d42eb59924472b1f919fba72}
+      \strng{bibnamehash}{2eb61760d42eb59924472b1f919fba72}
+      \strng{authorbibnamehash}{2eb61760d42eb59924472b1f919fba72}
+      \strng{authornamehash}{2eb61760d42eb59924472b1f919fba72}
+      \strng{authorfullhash}{2eb61760d42eb59924472b1f919fba72}
+      \field{labelalpha}{Pla21}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Kernenergie}
+      \field{title}{Temperatursensoren, Verwendungen und Arten von Sensoren}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kernenergie.technology/blog/thermodynamik/temperatursensoren-verwendungen-und-arten-von-sensoren
+      \endverb
+      \verb{url}
+      \verb https://kernenergie.technology/blog/thermodynamik/temperatursensoren-verwendungen-und-arten-von-sensoren
+      \endverb
+    \endentry
+    \entry{induuxwiki2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=66c8548e88d86326aac20f1a078e01a3}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={Induux},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{66c8548e88d86326aac20f1a078e01a3}
+      \strng{fullhash}{66c8548e88d86326aac20f1a078e01a3}
+      \strng{bibnamehash}{66c8548e88d86326aac20f1a078e01a3}
+      \strng{authorbibnamehash}{66c8548e88d86326aac20f1a078e01a3}
+      \strng{authornamehash}{66c8548e88d86326aac20f1a078e01a3}
+      \strng{authorfullhash}{66c8548e88d86326aac20f1a078e01a3}
+      \field{labelalpha}{Tea22}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Induux Wiki}
+      \field{title}{Kapazitive Feuchtemessung}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wiki.induux.de/Kapazitive_Feuchtemessung
+      \endverb
+      \verb{url}
+      \verb https://wiki.induux.de/Kapazitive_Feuchtemessung
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
