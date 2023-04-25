@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  24 APR 2023 08:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  25 APR 2023 10:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -158,7 +158,11 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count199
 \l__lipsum_a_int=\count266
 \l__lipsum_b_int=\count267
- (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
  (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
@@ -170,7 +174,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \csq@qlevel=\count272
 \csq@maxlvl=\count273
 \csq@tshold=\count274
-\csq@ltx@everypar=\toks18
+\csq@ltx@everypar=\toks20
  (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
@@ -205,10 +209,6 @@ Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 2176
 )
 Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
 (scrlayer-scrpage)             alias to `pageheadfoot' on input line 1089.
-) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
 ) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count275
@@ -429,6 +429,12 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip20
 \c@smartand=\count400
 )
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
  (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
@@ -472,30 +478,27 @@ Package: xparse 2023-01-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
-
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 34.
-
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
-(Seminararbeit_PfitzPfeitzner.aux)
+ (Seminararbeit_PfitzPfeitzner.aux)
 \openout1 = `Seminararbeit_PfitzPfeitzner.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -572,23 +575,23 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Seminararbeit_PfitzPfeitzner.bbl' found.
  (Seminararbeit_PfitzPfeitzner.bbl)
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
+Package biblatex Info: Reference section=0 on input line 33.
+Package biblatex Info: Reference segment=0 on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 46.
+(Font)              <14.4> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 45.
  [1
 
 
 
 {C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Seminararbeit_PfitzPfeitzner.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 4.
+(Font)              <10.95> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
+(Font)              <6> on input line 5.
 )
 \tf@toc=\write4
 \openout4 = `Seminararbeit_PfitzPfeitzner.toc'.
@@ -601,8 +604,12 @@ chapter 1.
 
 ]
 chapter 2.
-(kapitel/hauptteil.tex) (kapitel/drohnen.tex
-<bilder/drohne_im_sprüheinsatz.png, id=14, 694.595pt x 462.72874pt>
+(kapitel/hauptteil.tex) [2
+
+]
+chapter 3.
+(kapitel/drohnen.tex
+<bilder/drohne_im_sprüheinsatz.png, id=17, 694.595pt x 462.72874pt>
 File: bilder/drohne_im_sprüheinsatz.png Graphic file (type png)
 <use bilder/drohne_im_sprüheinsatz.png>
 Package pdftex.def Info: bilder/drohne_im_sprüheinsatz.png  used on input line 5.
@@ -612,31 +619,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-<bilder/farmbot.png, id=15, 495.56572pt x 231.47049pt>
+<bilder/farmbot.png, id=18, 495.56572pt x 231.47049pt>
 File: bilder/farmbot.png Graphic file (type png)
 <use bilder/farmbot.png>
 Package pdftex.def Info: bilder/farmbot.png  used on input line 6.
 (pdftex.def)             Requested size: 256.07481pt x 119.60597pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [2
+) [3
 
  <./bilder/drohne_im_sprüheinsatz.png>] (kapitel/roboterfahrzeuge.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-<bilder/farmdroid_fd20.png, id=19, 1196.47pt x 844.15375pt>
+<bilder/farmdroid_fd20.png, id=22, 1196.47pt x 844.15375pt>
 File: bilder/farmdroid_fd20.png Graphic file (type png)
 <use bilder/farmdroid_fd20.png>
 Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 5.
 (pdftex.def)             Requested size: 256.07481pt x 180.66515pt.
-) (kapitel/temperatursensor.tex
-<bilder/thi.png.png, id=20, 554.5518pt x 285.9483pt>
+)
+<bilder/thi.png.png, id=23, 554.5518pt x 285.9483pt>
 File: bilder/thi.png.png Graphic file (type png)
 <use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 4.
+Package pdftex.def Info: bilder/thi.png.png  used on input line 65.
 (pdftex.def)             Requested size: 87.2662pt x 45.0pt.
 
 
@@ -647,42 +647,44 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=49.08003pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 4.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 65.
 
 
 Overfull \vbox (32.08003pt too high) has occurred while \output is active []
 
- [3 <./bilder/thi.png.png> <./bilder/farmbot.png> <./bilder/farmdroid_fd20.png>]) (kapitel/bodenfeuchtigkeitssensor.tex) (kapitel/mineralsensor.tex) (kapitel/ernteundsaat.tex)
-File: bilder/thi.png.png Graphic file (type png)
-<use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 82.
-(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
- [4] (kapitel/tierpflege.tex) (kapitel/bodenpflege.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--87
+ [4 <./bilder/thi.png.png> <./bilder/farmbot.png> <./bilder/farmdroid_fd20.png>]
+chapter 4.
+(kapitel/temperatursensor.tex) (kapitel/bodenfeuchtigkeitssensor.tex) (kapitel/mineralsensor.tex) [5
+
+]
+chapter 5.
+(kapitel/ernteundsaat.tex) (kapitel/tierpflege.tex) (kapitel/bodenpflege.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--83
 
  []
 
-(kapitel/bewaesserung.tex) (kapitel/schaedlingsbekaempfung.tex)
-File: bilder/thi.png.png Graphic file (type png)
-<use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 97.
-(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
- [5]
-chapter 3.
-(kapitel/fazit.tex) [6
+(kapitel/bewaesserung.tex) (kapitel/schaedlingsbekaempfung.tex) [6
 
 ]
-Overfull \hbox (7.16344pt too wide) in paragraph at lines 102--102
+chapter 6.
+[7
+
+]
+chapter 7.
+(kapitel/fazit.tex) [8
+
+]
+Overfull \hbox (7.16344pt too wide) in paragraph at lines 96--96
 \OT1/cmr/m/sc/10.95 url\OT1/cmr/m/n/10.95 : $\OT1/cmtt/m/n/10.95 https : / / kernenergie . technology / blog / thermodynamik / temperatursensoren -[] verwendungen -[]
  []
 
-[7
+[9
 
 ] (Seminararbeit_PfitzPfeitzner.lof)
 \tf@lof=\write5
 \openout5 = `Seminararbeit_PfitzPfeitzner.lof'.
 
- [8
+ [10
 
 ] (Seminararbeit_PfitzPfeitzner.aux)
 Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
@@ -690,17 +692,17 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16849 strings out of 476334
- 364208 string characters out of 5786047
- 1865382 words of memory out of 5000000
- 37066 multiletter control sequences out of 15000+600000
+ 16875 strings out of 476334
+ 364477 string characters out of 5786047
+ 1862382 words of memory out of 5000000
+ 37089 multiletter control sequences out of 15000+600000
  518929 words of font info for 54 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,23n,106p,10675b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (10 pages, 1686605 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (12 pages, 1690011 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

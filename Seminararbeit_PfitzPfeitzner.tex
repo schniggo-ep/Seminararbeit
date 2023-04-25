@@ -5,30 +5,29 @@
 
 \usepackage[left=1.5cm,right=1.5cm,top=2.5cm,bottom=2.5cm]{geometry}
 \usepackage{lipsum}
+\usepackage[utf8]{inputenc}
 \usepackage{csquotes}
 \usepackage{graphicx}
 \usepackage[section]{placeins}
 \usepackage{fontenc}
 \usepackage{scrlayer-scrpage}
-\usepackage[utf8]{inputenc}
+
 \usepackage[ngerman]{babel}
-\usepackage[backend=biber,style=numeric]{biblatex}
+\usepackage[natbib=true,style=numeric, sorting=none]{biblatex}
 
 
 \addbibresource{ref/ref.bib}
 
-%\publishers{
-%	\begin{tabular}{rl} %jedes C für eine spalte c für centered
-%
-%		Erstprüfer: & Prof. Dr. Christian Pfitzner
-%		Betreuer:   & Prof. Dr. Christian Pfitzner
-%		Ausgabedatum: & 23.03.2023
-%		Abgabedatum: & 31.05.2023
+\publishers{
+	\begin{tabular}{rl} %jedes C für eine spalte c für centered
 
-%	\end{tabular}
-%}
+		Erstprüfer: & Prof. Dr. Christian Pfitzner \\
+		Betreuer:   & Prof. Dr. Christian Pfitzner \\
+		Ausgabedatum: & 23.03.2023 \\
+		Abgabedatum: & 31.05.2023 \\
 
-
+	\end{tabular}
+}
 
 
 \begin{document}
@@ -54,53 +53,47 @@
 	\input{kapitel/hauptteil}
 	
 	%%%%%%%%%%% ÜBERGREIFENDE SYSTEME %%%%%%%
-	\section{Systeme}
-		\subsection{Drohnen}
+	\chapter{Systeme}
+		\section{Drohnen}
 		\input{kapitel/drohnen}
-		\subsection{Schienensysteme}
+		\section{Schienensysteme}
 		\input{kapitel/schienensysteme}
-		\subsection{Roboterfahrzeuge}
+		\section{Roboterfahrzeuge}
 		\input{kapitel/roboterfahrzeuge}
 
 	%%%%%%%%%%% BENÖTIGTE SENSOREN %%%%%%%%%%
-	\section{Sensorik}
+	\chapter{Sensorik}
 	
-		\subsection{Temperatursensor}
+		\section{Temperatursensor}
 		\input{kapitel/temperatursensor}
 		\cite{oriolplanas2021}
-		\subsection{Bodenfeuchtigkeitssensor}
+		\section{Bodenfeuchtigkeitssensor}
 		\input{kapitel/bodenfeuchtigkeitssensor.tex}
-		\subsection{Mineralsensor}
+		\section{Mineralsensor}
 		\input{kapitel/mineralsensor}
 	
 	%%%%%%%%%%% ANWENDUNGEN %%%%%%%%%%%%%%%%%
-	\section{Anwendungen in der Landwirtschaft}
-		
-		\subsection{Saat und Ernte}
+	\chapter{Anwendungen in der Landwirtschaft}
+		\section{Saat und Ernte}
 		\input{kapitel/ernteundsaat}
-		
-		\subsection{Tierpflege}
+		\section{Tierpflege}
 		\input{kapitel/tierpflege}
-		
-		\subsection{Bodenpflege}
-		\input{kapitel/bodenpflege}
-		
-		\subsection{Bewässerung}
-		\input{kapitel/bewaesserung}
-		
-		\subsection{Schädlingsbekämpfung}
+		\section{Bodenpflege}
+		\input{kapitel/bodenpflege}	
+		\section{Bewässerung}
+		\input{kapitel/bewaesserung}	
+		\section{Schädlingsbekämpfung}
 		\input{kapitel/schaedlingsbekaempfung}
 	%%%%%%%%%%%% HERAUSFORDERUNGEN %%%%%%%%%%
-	\section{Herausforderungen}
+	\chapter{Herausforderungen}
 	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	%%%%%%%%%%% FAZIT %%%%%%%%%%%%%%%%%%%%%%%
 	\chapter{Fazit}
 	\input{kapitel/fazit}
-	
 	%%%%%%%%%%% INHALTSVERZEICHNIS %%%%%%%%%%
 	\printbibliography
-	
 	%%%%%%%%%%% ABBILDUNGSVERZEICHNIS %%%%%%%
 	\listoffigures
 	test
 \end{document}
+%% im fließtext bei Zitat auf Autor beziehen %%

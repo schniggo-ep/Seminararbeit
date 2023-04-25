@@ -18,7 +18,25 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
+    \entry{donaukurier2022}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Donaukurier}
+      \field{title}{Roboter auf dem Feld}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.donaukurier.de/archiv/roboter-auf-dem-feld-6203116
+      \endverb
+      \verb{url}
+      \verb https://www.donaukurier.de/archiv/roboter-auf-dem-feld-6203116
+      \endverb
+    \endentry
     \entry{oriolplanas2021}{article}{}
       \name{author}{1}{}{%
         {{hash=2eb61760d42eb59924472b1f919fba72}{%
@@ -33,8 +51,8 @@
       \strng{authorbibnamehash}{2eb61760d42eb59924472b1f919fba72}
       \strng{authornamehash}{2eb61760d42eb59924472b1f919fba72}
       \strng{authorfullhash}{2eb61760d42eb59924472b1f919fba72}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kernenergie}
@@ -51,24 +69,6 @@
       \verb https://kernenergie.technology/blog/thermodynamik/temperatursensoren-verwendungen-und-arten-von-sensoren
       \endverb
     \endentry
-    \entry{donaukurier2022}{article}{}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Donaukurier}
-      \field{title}{Roboter auf dem Feld}
-      \field{urlday}{28}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.donaukurier.de/archiv/roboter-auf-dem-feld-6203116
-      \endverb
-      \verb{url}
-      \verb https://www.donaukurier.de/archiv/roboter-auf-dem-feld-6203116
-      \endverb
-    \endentry
     \entry{induuxwiki2022}{article}{}
       \name{author}{1}{}{%
         {{hash=66c8548e88d86326aac20f1a078e01a3}{%
@@ -83,8 +83,8 @@
       \strng{authorbibnamehash}{66c8548e88d86326aac20f1a078e01a3}
       \strng{authornamehash}{66c8548e88d86326aac20f1a078e01a3}
       \strng{authorfullhash}{66c8548e88d86326aac20f1a078e01a3}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Induux Wiki}

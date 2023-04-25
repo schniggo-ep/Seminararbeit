@@ -206,6 +206,17 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3bac
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
@@ -327,17 +338,6 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scr
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
@@ -482,6 +482,9 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-co
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
@@ -637,13 +640,6 @@ INPUT .\bilder\farmdroid_fd20.png
 INPUT .\bilder\farmdroid_fd20.png
 INPUT .\bilder\farmdroid_fd20.png
 INPUT .\bilder\farmdroid_fd20.png
-INPUT .\kapitel\temperatursensor.tex
-INPUT .\kapitel\temperatursensor.tex
-INPUT .\kapitel\temperatursensor.tex
-INPUT kapitel\temperatursensor.tex
-INPUT .\kapitel\temperatursensor.tex
-INPUT .\kapitel\temperatursensor.tex
-INPUT kapitel\temperatursensor.tex
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT bilder\thi.png.png
@@ -651,6 +647,13 @@ INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
 INPUT .\bilder\thi.png.png
+INPUT .\kapitel\temperatursensor.tex
+INPUT .\kapitel\temperatursensor.tex
+INPUT .\kapitel\temperatursensor.tex
+INPUT kapitel\temperatursensor.tex
+INPUT .\kapitel\temperatursensor.tex
+INPUT .\kapitel\temperatursensor.tex
+INPUT kapitel\temperatursensor.tex
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT .\kapitel\bodenfeuchtigkeitssensor.tex
@@ -671,10 +674,6 @@ INPUT kapitel\ernteundsaat.tex
 INPUT .\kapitel\ernteundsaat.tex
 INPUT .\kapitel\ernteundsaat.tex
 INPUT kapitel\ernteundsaat.tex
-INPUT .\bilder\thi.png.png
-INPUT .\bilder\thi.png.png
-INPUT bilder\thi.png.png
-INPUT .\bilder\thi.png.png
 INPUT .\kapitel\tierpflege.tex
 INPUT .\kapitel\tierpflege.tex
 INPUT .\kapitel\tierpflege.tex
@@ -703,10 +702,6 @@ INPUT kapitel\schaedlingsbekaempfung.tex
 INPUT .\kapitel\schaedlingsbekaempfung.tex
 INPUT .\kapitel\schaedlingsbekaempfung.tex
 INPUT kapitel\schaedlingsbekaempfung.tex
-INPUT .\bilder\thi.png.png
-INPUT .\bilder\thi.png.png
-INPUT bilder\thi.png.png
-INPUT .\bilder\thi.png.png
 INPUT .\kapitel\fazit.tex
 INPUT .\kapitel\fazit.tex
 INPUT .\kapitel\fazit.tex

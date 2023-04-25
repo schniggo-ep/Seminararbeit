@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Seminararbeit_PfitzPfeitzner"] 1682319016 "Seminararbeit_PfitzPfeitzner.bcf" "Seminararbeit_PfitzPfeitzner.bbl" "Seminararbeit_PfitzPfeitzner" 1682319289 0
-  "Seminararbeit_PfitzPfeitzner.bcf" 1682319289 107907 7069715b9c6ec0672fd0312bb6d21bad "pdflatex"
-  "ref/ref.bib" 1681734838 1177 b1d2d9020f2271a03bb2a15843b559ef ""
+["biber Seminararbeit_PfitzPfeitzner"] 1682409583 "Seminararbeit_PfitzPfeitzner.bcf" "Seminararbeit_PfitzPfeitzner.bbl" "Seminararbeit_PfitzPfeitzner" 1682409607 0
+  "Seminararbeit_PfitzPfeitzner.bcf" 1682409606 107103 0430844f5adb279a240dd12365964d54 "pdflatex"
+  "ref/ref.bib" 1682400256 1179 b3cb070d47b4c83f4381fe18ec0a93e3 ""
   (generated)
   "Seminararbeit_PfitzPfeitzner.bbl"
   "Seminararbeit_PfitzPfeitzner.blg"
   (rewritten before read)
-["pdflatex"] 1682319285 "c:/Users/Ms Laptop/Documents/GitHub/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1682319289 0
+["pdflatex"] 1682409601 "c:/Users/Ms Laptop/Documents/GitHub/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1682409607 0
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1682318942 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1679578205 12668 3de041f3b5a78ea56e5eabc447c765ff ""
   "C:/Users/Ms Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679988562 23178298 bb0218f6cd98cb202bdeb636ed15ae04 ""
@@ -59,6 +59,7 @@
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-case-expl3.sty" 1679059282 8433 72f8188742e7214b7068f345cd0287ac ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-compat.def" 1679059282 13919 5426dbe90e723f089052b4e908b56ef9 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-dm.def" 1679059282 32455 8d3e554836db11aab80a8e11be62e1b1 ""
+  "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-natbib.def" 1679059282 2190 4b4fcc6752fa7201177431e523c40d74 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/cbx/numeric.cbx" 1679059282 4629 cda468e8a0b1cfa0f61872e171037a4b ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/german.lbx" 1679059282 33908 9178e63849ed8d931ae427546930e76a ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/ngerman.lbx" 1679059282 520 79db3ad588d8a32d9a5aa90a48bd8364 ""
@@ -99,17 +100,17 @@
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/placeins/placeins.sty" 1681736645 4087 636308456f60d2b31cbf97867db5708d ""
   "C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Seminararbeit_PfitzPfeitzner.aux" 1682319289 3724 57d76f22168a350bef925e4a78f2ba3b "pdflatex"
-  "Seminararbeit_PfitzPfeitzner.bbl" 1682319019 3831 bbe127b1825ae251ad8762046e575cc3 "biber Seminararbeit_PfitzPfeitzner"
-  "Seminararbeit_PfitzPfeitzner.lof" 1682319289 380 49cccbae56928601f54185035c090b82 "pdflatex"
-  "Seminararbeit_PfitzPfeitzner.run.xml" 1682319289 2500 807e06cbe13503a634e53745a0e62e21 "pdflatex"
-  "Seminararbeit_PfitzPfeitzner.tex" 1682319007 2697 f180da8a20ea62ee52aa971bbd0d5e83 ""
-  "Seminararbeit_PfitzPfeitzner.toc" 1682319289 1275 ac27b2665985aac452f99f83042065c5 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.aux" 1682409606 3905 ac77a86e9b690fa25e74e58fc3963a62 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.bbl" 1682409589 3832 4051f5b533d273ec7484a9859257aecf "biber Seminararbeit_PfitzPfeitzner"
+  "Seminararbeit_PfitzPfeitzner.lof" 1682409606 460 8a935a823a8ecd86c769ab65f23af208 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.run.xml" 1682409606 2534 ddec8390d754dbf12cf74ba37e7c24a9 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.tex" 1682409580 2701 d1c7e64365828ff105d375734a5ea91b ""
+  "Seminararbeit_PfitzPfeitzner.toc" 1682409606 1212 fb70a377113330d5de18cd473f899397 "pdflatex"
   "bilder/drohne_im_sprüheinsatz.png" 1681734838 73071 5458d0cc713ca939cf63e1d4a97c67f4 ""
   "bilder/farmbot.png" 1681734838 901064 bf43bb27fb37d7f712544a9c0655e189 ""
   "bilder/farmdroid_fd20.png" 1681734838 374279 de1f08b36630ce53b5e6fcdea9a5bcb8 ""
   "bilder/thi.png.png" 1681734838 281069 81900fdd0c612cfa479eb71932e2b3f1 ""
-  "c:/Users/Ms Laptop/Documents/GitHub/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" 1682319007 2697 f180da8a20ea62ee52aa971bbd0d5e83 ""
+  "c:/Users/Ms Laptop/Documents/GitHub/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" 1682409580 2701 d1c7e64365828ff105d375734a5ea91b ""
   "kapitel/bewaesserung.tex" 1681734838 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/bodenfeuchtigkeitssensor.tex" 1681990999 851 5efdcc3b253e5eb314d51d568077e183 ""
   "kapitel/bodenpflege.tex" 1681734838 178 e234a38359276ebdc94a56c4eb4f3777 ""
@@ -119,10 +120,10 @@
   "kapitel/fazit.tex" 1681734838 115 0bd1a37bf7d6844b72cc11ba4bd1f620 ""
   "kapitel/hauptteil.tex" 1681991030 571 9375a2a3ddebc89feaf714d411d6853c ""
   "kapitel/mineralsensor.tex" 1681734838 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "kapitel/roboterfahrzeuge.tex" 1681734838 1004 1d9a2aed55bc2d456a5769aaec7db9a7 ""
+  "kapitel/roboterfahrzeuge.tex" 1682399495 1002 550ec88884b0c2c957a9ef426eef110c ""
   "kapitel/schaedlingsbekaempfung.tex" 1681734838 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "kapitel/schienensysteme.tex" 1682319270 1113 94b4e1e325a05ab7d32dd78dca2dcd2b ""
-  "kapitel/temperatursensor.tex" 1682319284 1085 136c87283c788fa244fdb3259e434a90 ""
+  "kapitel/schienensysteme.tex" 1682399063 1114 b8862bc0daa25c5215e74dd6959ec961 ""
+  "kapitel/temperatursensor.tex" 1682399181 1085 136c87283c788fa244fdb3259e434a90 ""
   "kapitel/tierpflege.tex" 1681734838 758 ae0fa365724790317ee994c17e721b69 ""
   (generated)
   "Seminararbeit_PfitzPfeitzner.aux"

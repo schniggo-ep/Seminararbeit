@@ -1,20 +1,20 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{}%
 \contentsline {chapter}{\numberline {2}Hauptteil}{2}{}%
-\contentsline {section}{\numberline {2.1}Systeme}{2}{}%
-\contentsline {subsection}{\numberline {2.1.1}Drohnen}{2}{}%
-\contentsline {subsection}{\numberline {2.1.2}Schienensysteme}{2}{}%
-\contentsline {subsection}{\numberline {2.1.3}Roboterfahrzeuge}{3}{}%
-\contentsline {section}{\numberline {2.2}Sensorik}{4}{}%
-\contentsline {subsection}{\numberline {2.2.1}Temperatursensor}{4}{}%
-\contentsline {subsection}{\numberline {2.2.2}Bodenfeuchtigkeitssensor}{4}{}%
-\contentsline {subsection}{\numberline {2.2.3}Mineralsensor}{4}{}%
-\contentsline {section}{\numberline {2.3}Anwendungen in der Landwirtschaft}{4}{}%
-\contentsline {subsection}{\numberline {2.3.1}Saat und Ernte}{4}{}%
-\contentsline {subsection}{\numberline {2.3.2}Tierpflege}{5}{}%
-\contentsline {subsection}{\numberline {2.3.3}Bodenpflege}{5}{}%
-\contentsline {subsection}{\numberline {2.3.4}Bewässerung}{5}{}%
-\contentsline {subsection}{\numberline {2.3.5}Schädlingsbekämpfung}{5}{}%
-\contentsline {section}{\numberline {2.4}Herausforderungen}{5}{}%
-\contentsline {chapter}{\numberline {3}Fazit}{6}{}%
+\contentsline {chapter}{\numberline {3}Systeme}{3}{}%
+\contentsline {section}{\numberline {3.1}Drohnen}{3}{}%
+\contentsline {section}{\numberline {3.2}Schienensysteme}{3}{}%
+\contentsline {section}{\numberline {3.3}Roboterfahrzeuge}{4}{}%
+\contentsline {chapter}{\numberline {4}Sensorik}{5}{}%
+\contentsline {section}{\numberline {4.1}Temperatursensor}{5}{}%
+\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{5}{}%
+\contentsline {section}{\numberline {4.3}Mineralsensor}{5}{}%
+\contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{6}{}%
+\contentsline {section}{\numberline {5.1}Saat und Ernte}{6}{}%
+\contentsline {section}{\numberline {5.2}Tierpflege}{6}{}%
+\contentsline {section}{\numberline {5.3}Bodenpflege}{6}{}%
+\contentsline {section}{\numberline {5.4}Bewässerung}{6}{}%
+\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{6}{}%
+\contentsline {chapter}{\numberline {6}Herausforderungen}{7}{}%
+\contentsline {chapter}{\numberline {7}Fazit}{8}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
