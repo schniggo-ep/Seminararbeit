@@ -482,15 +482,15 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-co
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\alphabetic.cbx
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\alphabetic.cbx
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\alphabetic.cbx
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
@@ -552,6 +552,12 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\ge
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
 OUTPUT Seminararbeit_PfitzPfeitzner.bcf
+INPUT Seminararbeit_PfitzPfeitzner.bbl
+INPUT .\Seminararbeit_PfitzPfeitzner.bbl
+INPUT Seminararbeit_PfitzPfeitzner.bbl
+INPUT .\Seminararbeit_PfitzPfeitzner.bbl
+INPUT .\Seminararbeit_PfitzPfeitzner.bbl
+INPUT Seminararbeit_PfitzPfeitzner.bbl
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
@@ -561,15 +567,9 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi1
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 OUTPUT Seminararbeit_PfitzPfeitzner.pdf
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-OUTPUT Seminararbeit_PfitzPfeitzner.toc
-INPUT .\kapitel\einleitung.tex
-INPUT .\kapitel\einleitung.tex
-INPUT .\kapitel\einleitung.tex
-INPUT kapitel\einleitung.tex
-INPUT .\kapitel\einleitung.tex
-INPUT .\kapitel\einleitung.tex
-INPUT kapitel\einleitung.tex
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+INPUT .\Seminararbeit_PfitzPfeitzner.toc
+INPUT Seminararbeit_PfitzPfeitzner.toc
+INPUT Seminararbeit_PfitzPfeitzner.toc
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
@@ -578,6 +578,15 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+OUTPUT Seminararbeit_PfitzPfeitzner.toc
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+INPUT .\kapitel\einleitung.tex
+INPUT .\kapitel\einleitung.tex
+INPUT .\kapitel\einleitung.tex
+INPUT kapitel\einleitung.tex
+INPUT .\kapitel\einleitung.tex
+INPUT .\kapitel\einleitung.tex
+INPUT kapitel\einleitung.tex
 INPUT .\kapitel\hauptteil.tex
 INPUT .\kapitel\hauptteil.tex
 INPUT .\kapitel\hauptteil.tex
@@ -628,7 +637,6 @@ INPUT .\bilder\farmdroid_fd20.png
 INPUT .\bilder\farmdroid_fd20.png
 INPUT .\bilder\farmdroid_fd20.png
 INPUT .\bilder\farmdroid_fd20.png
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT .\kapitel\temperatursensor.tex
 INPUT .\kapitel\temperatursensor.tex
 INPUT .\kapitel\temperatursensor.tex
@@ -706,14 +714,19 @@ INPUT kapitel\fazit.tex
 INPUT .\kapitel\fazit.tex
 INPUT .\kapitel\fazit.tex
 INPUT kapitel\fazit.tex
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT .\Seminararbeit_PfitzPfeitzner.lof
+INPUT Seminararbeit_PfitzPfeitzner.lof
+INPUT Seminararbeit_PfitzPfeitzner.lof
 OUTPUT Seminararbeit_PfitzPfeitzner.lof
 INPUT Seminararbeit_PfitzPfeitzner.aux
 INPUT Seminararbeit_PfitzPfeitzner.run.xml
 OUTPUT Seminararbeit_PfitzPfeitzner.run.xml
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
@@ -722,3 +735,5 @@ INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfon
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

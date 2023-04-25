@@ -12,20 +12,21 @@
 \usepackage{scrlayer-scrpage}
 \usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
-\usepackage[backend=biber,style=alphabetic]{biblatex}
+\usepackage[backend=biber,style=numeric]{biblatex}
+
 
 \addbibresource{ref/ref.bib}
 
-\publishers{
-	\begin{tabular}{rl} %jedes C für eine spalte c für centered
+%\publishers{
+%	\begin{tabular}{rl} %jedes C für eine spalte c für centered
+%
+%		Erstprüfer: & Prof. Dr. Christian Pfitzner
+%		Betreuer:   & Prof. Dr. Christian Pfitzner
+%		Ausgabedatum: & 23.03.2023
+%		Abgabedatum: & 31.05.2023
 
-		Erstprüfer: & Prof. Dr. Christian Pfitzner
-		Betreuer:   & Prof. Dr. Christian Pfitzner
-		Ausgabedatum: & 23.03.2023
-		Abgabedatum: & 31.05.2023
-
-	\end{tabular}
-}
+%	\end{tabular}
+%}
 
 
 
@@ -42,8 +43,8 @@
 	Studiengang: Robotik}
 	\date{\today}
 	\maketitle
-	\tableofcontents
 	\thispagestyle{empty}
+	\tableofcontents
 	%%%%%%%%%% EINLEITUNG %%%%%%%%%%%%%%%%%%%
 	\newpage
 	\setcounter{page}{1}
