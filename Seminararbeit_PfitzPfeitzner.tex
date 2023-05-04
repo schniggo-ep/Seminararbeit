@@ -1,7 +1,7 @@
 \documentclass[a4paper,
 			   11pt,
 			   ngerman, 
-			   headsepline]{scrreprt}
+			   ]{scrreprt}
 
 \usepackage[left=1.5cm,right=1.5cm,top=2.5cm,bottom=2.5cm]{geometry}
 \usepackage{lipsum}
@@ -10,11 +10,14 @@
 \usepackage{graphicx}
 \usepackage[section]{placeins}
 \usepackage{fontenc}
-\usepackage{scrlayer-scrpage}
-
+\usepackage[automark, headsepline]{scrlayer-scrpage}
 \usepackage[ngerman]{babel}
 \usepackage[natbib=true,style=numeric, sorting=none]{biblatex}
 
+%%%%%%%%% KOPFZEILE %%%%%%%%%%%%%%%%%%%%%
+\pagestyle{scrheadings} 
+\chead*{\headmark}
+\cfoot*{\pagemark}
 
 \addbibresource{ref/ref.bib}
 
@@ -31,9 +34,6 @@
 
 
 \begin{document}
-	\pagestyle{scrheadings} 
-	%%%%%%%%% KOPFZEILE %%%%%%%%%%%%%%%%%%%%%
-	\ohead{}
 
 	%%%%%%%%% KOPF %%%%%%%%%%%%%%%%%%%%%%%%%%
 	\title{Seminararbeit}
@@ -42,8 +42,8 @@
 	Studiengang: Robotik}
 	\date{\today}
 	\maketitle
-	\thispagestyle{empty}
 	\tableofcontents
+	\thispagestyle{empty}
 	%%%%%%%%%% EINLEITUNG %%%%%%%%%%%%%%%%%%%
 	\newpage
 	\setcounter{page}{1}
@@ -86,7 +86,7 @@
 		\input{kapitel/schaedlingsbekaempfung}
 	%%%%%%%%%%%% HERAUSFORDERUNGEN %%%%%%%%%%
 	\chapter{Herausforderungen}
-	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	\input{kapitel/herausforderungen.tex}
 	%%%%%%%%%%% FAZIT %%%%%%%%%%%%%%%%%%%%%%%
 	\chapter{Fazit}
 	\input{kapitel/fazit}
