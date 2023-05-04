@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  25 APR 2023 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  3 MAY 2023 10:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -612,17 +612,22 @@ chapter 3.
 <bilder/drohne_im_sprüheinsatz.png, id=17, 694.595pt x 462.72874pt>
 File: bilder/drohne_im_sprüheinsatz.png Graphic file (type png)
 <use bilder/drohne_im_sprüheinsatz.png>
-Package pdftex.def Info: bilder/drohne_im_sprüheinsatz.png  used on input line 5.
+Package pdftex.def Info: bilder/drohne_im_sprüheinsatz.png  used on input line 6.
 (pdftex.def)             Requested size: 256.07481pt x 170.59973pt.
-) (kapitel/schienensysteme.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--3
+)
+Underfull \hbox (badness 10000) in paragraph at lines 11--59
+
+ []
+
+(kapitel/schienensysteme.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
  []
 
 <bilder/farmbot.png, id=18, 495.56572pt x 231.47049pt>
 File: bilder/farmbot.png Graphic file (type png)
 <use bilder/farmbot.png>
-Package pdftex.def Info: bilder/farmbot.png  used on input line 6.
+Package pdftex.def Info: bilder/farmbot.png  used on input line 11.
 (pdftex.def)             Requested size: 256.07481pt x 119.60597pt.
 ) [3
 
@@ -632,27 +637,7 @@ File: bilder/farmdroid_fd20.png Graphic file (type png)
 <use bilder/farmdroid_fd20.png>
 Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 5.
 (pdftex.def)             Requested size: 256.07481pt x 180.66515pt.
-)
-<bilder/thi.png.png, id=23, 554.5518pt x 285.9483pt>
-File: bilder/thi.png.png Graphic file (type png)
-<use bilder/thi.png.png>
-Package pdftex.def Info: bilder/thi.png.png  used on input line 65.
-(pdftex.def)             Requested size: 87.2662pt x 45.0pt.
-
-
-Package scrlayer-scrpage Warning: \headheight to low.
-(scrlayer-scrpage)                At least 49.08003pt needed,
-(scrlayer-scrpage)                but only 17.0pt found.
-(scrlayer-scrpage)                I'll enlarge \headheight, for further
-(scrlayer-scrpage)                processing, but you should do this yourself,
-(scrlayer-scrpage)                e.g., setting geometry's option
-(scrlayer-scrpage)                `head=49.08003pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 65.
-
-
-Overfull \vbox (32.08003pt too high) has occurred while \output is active []
-
- [4 <./bilder/thi.png.png> <./bilder/farmbot.png> <./bilder/farmdroid_fd20.png>]
+) [4 <./bilder/farmbot.png> <./bilder/farmdroid_fd20.png>]
 chapter 4.
 (kapitel/temperatursensor.tex) (kapitel/bodenfeuchtigkeitssensor.tex) (kapitel/mineralsensor.tex) [5
 
@@ -692,17 +677,17 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16875 strings out of 476334
- 364477 string characters out of 5786047
- 1862382 words of memory out of 5000000
- 37089 multiletter control sequences out of 15000+600000
+ 16868 strings out of 476334
+ 364327 string characters out of 5786047
+ 1863382 words of memory out of 5000000
+ 37083 multiletter control sequences out of 15000+600000
  518929 words of font info for 54 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,23n,106p,10675b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,19n,106p,10675b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (12 pages, 1690011 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (12 pages, 1467159 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
