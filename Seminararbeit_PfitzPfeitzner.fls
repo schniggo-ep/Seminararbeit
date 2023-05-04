@@ -582,6 +582,10 @@ INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT Seminararbeit_PfitzPfeitzner.toc
+<<<<<<< Updated upstream
+=======
+INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+>>>>>>> Stashed changes
 INPUT .\kapitel\einleitung.tex
 INPUT .\kapitel\einleitung.tex
 INPUT .\kapitel\einleitung.tex
@@ -723,8 +727,11 @@ INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfont
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+<<<<<<< Updated upstream
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
+=======
+>>>>>>> Stashed changes
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb

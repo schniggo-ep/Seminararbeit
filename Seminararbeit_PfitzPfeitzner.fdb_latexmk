@@ -1,13 +1,23 @@
 # Fdb version 4
+<<<<<<< Updated upstream
 ["biber Seminararbeit_PfitzPfeitzner"] 1683188006 "Seminararbeit_PfitzPfeitzner.bcf" "Seminararbeit_PfitzPfeitzner.bbl" "Seminararbeit_PfitzPfeitzner" 1683188675 0
   "Seminararbeit_PfitzPfeitzner.bcf" 1683188675 106591 c91f1e2db9d8417b7e00faed68b50b78 "pdflatex"
+=======
+["biber Seminararbeit_PfitzPfeitzner"] 1682431571 "Seminararbeit_PfitzPfeitzner.bcf" "Seminararbeit_PfitzPfeitzner.bbl" "Seminararbeit_PfitzPfeitzner" 1682431580 0
+  "Seminararbeit_PfitzPfeitzner.bcf" 1682431580 106591 c91f1e2db9d8417b7e00faed68b50b78 "pdflatex"
+>>>>>>> Stashed changes
   "ref/ref.bib" 1682431423 1179 b3cb070d47b4c83f4381fe18ec0a93e3 ""
   (generated)
   "Seminararbeit_PfitzPfeitzner.bbl"
   "Seminararbeit_PfitzPfeitzner.blg"
   (rewritten before read)
+<<<<<<< Updated upstream
 ["pdflatex"] 1683188673 "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1683188675 0
   "C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1683187512 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+=======
+["pdflatex"] 1682431578 "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1682431580 0
+  "C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1681310957 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+>>>>>>> Stashed changes
   "C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1681297290 12668 e804428eaf57ebbf4bd373f1c4a2cad5 ""
   "C:/Users/Schniggo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1681297256 10789426 c63f85d904b58368a3e37f9a1a1326dd ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1095.tfm" 993062508 1460 8005ce585ff351dff78998923504da5e ""
@@ -31,7 +41,10 @@
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+<<<<<<< Updated upstream
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb" 1247596666 35022 e40946b20bfdcd1099eafb2bcd9f25dd ""
+=======
+>>>>>>> Stashed changes
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb" 1247596666 28902 2f5c04fd2884d1878057baa5aad22765 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
@@ -101,6 +114,7 @@
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/placeins/placeins.sty" 1113865200 4087 636308456f60d2b31cbf97867db5708d ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+<<<<<<< Updated upstream
   "Seminararbeit_PfitzPfeitzner.aux" 1683188675 3905 ac77a86e9b690fa25e74e58fc3963a62 "pdflatex"
   "Seminararbeit_PfitzPfeitzner.bbl" 1683188008 3832 4051f5b533d273ec7484a9859257aecf "biber Seminararbeit_PfitzPfeitzner"
   "Seminararbeit_PfitzPfeitzner.lof" 1683188675 460 8a935a823a8ecd86c769ab65f23af208 "pdflatex"
@@ -124,6 +138,31 @@
   "kapitel/roboterfahrzeuge.tex" 1682431423 1002 550ec88884b0c2c957a9ef426eef110c ""
   "kapitel/schaedlingsbekaempfung.tex" 1682431423 0 d41d8cd98f00b204e9800998ecf8427e ""
   "kapitel/schienensysteme.tex" 1683183764 1582 9c62050600d39a47baf3eb698d9b8442 ""
+=======
+  "Seminararbeit_PfitzPfeitzner.aux" 1682431580 3905 ac77a86e9b690fa25e74e58fc3963a62 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.bbl" 1682431573 3832 4051f5b533d273ec7484a9859257aecf "biber Seminararbeit_PfitzPfeitzner"
+  "Seminararbeit_PfitzPfeitzner.lof" 1682431580 460 8a935a823a8ecd86c769ab65f23af208 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.run.xml" 1682431580 2534 ddec8390d754dbf12cf74ba37e7c24a9 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.tex" 1682431423 2701 d1c7e64365828ff105d375734a5ea91b ""
+  "Seminararbeit_PfitzPfeitzner.toc" 1682431580 1212 fb70a377113330d5de18cd473f899397 "pdflatex"
+  "bilder/drohne_im_sprüheinsatz.png" 1682431423 73071 5458d0cc713ca939cf63e1d4a97c67f4 ""
+  "bilder/farmbot.png" 1682431423 901064 bf43bb27fb37d7f712544a9c0655e189 ""
+  "bilder/farmdroid_fd20.png" 1682431423 374279 de1f08b36630ce53b5e6fcdea9a5bcb8 ""
+  "bilder/thi.png.png" 1682431423 281069 81900fdd0c612cfa479eb71932e2b3f1 ""
+  "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" 1682431423 2701 d1c7e64365828ff105d375734a5ea91b ""
+  "kapitel/bewaesserung.tex" 1682431423 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "kapitel/bodenfeuchtigkeitssensor.tex" 1682431423 851 5efdcc3b253e5eb314d51d568077e183 ""
+  "kapitel/bodenpflege.tex" 1682431423 178 e234a38359276ebdc94a56c4eb4f3777 ""
+  "kapitel/drohnen.tex" 1682431423 1015 a1ffc51235d24d88e649de0b9a14bbd0 ""
+  "kapitel/einleitung.tex" 1682431423 953 4f633a85825888e5985d5fc4dd18a984 ""
+  "kapitel/ernteundsaat.tex" 1682431423 1081 915c208ba557d66cd06678d9cb2897d3 ""
+  "kapitel/fazit.tex" 1682431423 115 0bd1a37bf7d6844b72cc11ba4bd1f620 ""
+  "kapitel/hauptteil.tex" 1682431423 571 9375a2a3ddebc89feaf714d411d6853c ""
+  "kapitel/mineralsensor.tex" 1682431423 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "kapitel/roboterfahrzeuge.tex" 1682431423 1002 550ec88884b0c2c957a9ef426eef110c ""
+  "kapitel/schaedlingsbekaempfung.tex" 1682431423 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "kapitel/schienensysteme.tex" 1682431423 1114 b8862bc0daa25c5215e74dd6959ec961 ""
+>>>>>>> Stashed changes
   "kapitel/temperatursensor.tex" 1682431423 1085 136c87283c788fa244fdb3259e434a90 ""
   "kapitel/tierpflege.tex" 1682431423 758 ae0fa365724790317ee994c17e721b69 ""
   (generated)
