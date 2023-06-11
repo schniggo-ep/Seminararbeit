@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {3.3}Roboterfahrzeuge}{4}{}%
 \contentsline {chapter}{\numberline {4}Sensorik}{5}{}%
 \contentsline {section}{\numberline {4.1}Temperatursensor}{5}{}%
-\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{5}{}%
+\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{6}{}%
 \contentsline {section}{\numberline {4.3}Nahinfrarotspektroskopie}{6}{}%
 \contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{7}{}%
 \contentsline {section}{\numberline {5.1}Saat und Ernte}{7}{}%

@@ -66,6 +66,38 @@
       \field{title}{Infrarotthermographie}
       \field{year}{2004}
     \endentry
+    \entry{hering2018temperaturmesstechnik}{article}{}
+      \name{author}{2}{}{%
+        {{hash=29be8b370d75b426ff18a2557da6b5da}{%
+           family={Hering},
+           familyi={H\bibinitperiod},
+           given={Ekbert},
+           giveni={E\bibinitperiod}}}%
+        {{hash=56ae41fff0197628b15144a481a44934}{%
+           family={Schönfelder},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
+      \strng{fullhash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
+      \strng{bibnamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
+      \strng{authorbibnamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
+      \strng{authornamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
+      \strng{authorfullhash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensoren in Wissenschaft und Technik: Funktionsweise und Einsatzgebiete}
+      \field{title}{Temperaturmesstechnik}
+      \field{year}{2018}
+      \field{pages}{393\bibrangedash 419}
+      \range{pages}{27}
+    \endentry
     \entry{bernhard2014thermoelemente}{article}{}
       \name{author}{1}{}{%
         {{hash=be4d89cb6ca424f1a2d57e7d0b39ae36}{%
@@ -83,8 +115,8 @@
       \strng{authorbibnamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authornamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authorfullhash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Handbuch der Technischen Temperaturmessung}
@@ -107,8 +139,8 @@
       \strng{authorbibnamehash}{2eb61760d42eb59924472b1f919fba72}
       \strng{authornamehash}{2eb61760d42eb59924472b1f919fba72}
       \strng{authorfullhash}{2eb61760d42eb59924472b1f919fba72}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kernenergie}
@@ -139,8 +171,8 @@
       \strng{authorbibnamehash}{66c8548e88d86326aac20f1a078e01a3}
       \strng{authornamehash}{66c8548e88d86326aac20f1a078e01a3}
       \strng{authorfullhash}{66c8548e88d86326aac20f1a078e01a3}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Induux Wiki}
@@ -181,8 +213,8 @@
       \strng{authorbibnamehash}{03aece6081c7b6028331315abcdb6534}
       \strng{authornamehash}{03aece6081c7b6028331315abcdb6534}
       \strng{authorfullhash}{03aece6081c7b6028331315abcdb6534}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Practical Spectroscopy Series}
@@ -214,8 +246,8 @@
       \strng{authorbibnamehash}{4bb1108b2b087d60a6c8530bc104205b}
       \strng{authornamehash}{4bb1108b2b087d60a6c8530bc104205b}
       \strng{authorfullhash}{4bb1108b2b087d60a6c8530bc104205b}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Food Science \& Technology}
@@ -253,8 +285,8 @@
       \strng{authorbibnamehash}{3260363237b5975711b2e39dc466264f}
       \strng{authornamehash}{3260363237b5975711b2e39dc466264f}
       \strng{authorfullhash}{3260363237b5975711b2e39dc466264f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Soils and foundations}
@@ -264,6 +296,48 @@
       \field{year}{2018}
       \field{pages}{838\bibrangedash 852}
       \range{pages}{15}
+    \endentry
+    \entry{bvl}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bundesamt für Verbraucherschutz und Lebensmittelsicherheit}
+      \field{title}{Genehmigung von Pflanzenschutzmitteln für die Anwendung mit Drohnen in Weinbau-Steillagen}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bvl.bund.de/SharedDocs/Fachmeldungen/04_pflanzenschutzmittel/2021/2021_05_26_Fa_Drohnen.html
+      \endverb
+      \verb{url}
+      \verb https://www.bvl.bund.de/SharedDocs/Fachmeldungen/04_pflanzenschutzmittel/2021/2021_05_26_Fa_Drohnen.html
+      \endverb
+    \endentry
+    \entry{clausing2020baumrinden}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8a99b3b325a5ef4a51b843a491ad9697}{%
+           family={Clausing},
+           familyi={C\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bündnis für eine enkeltaugliche Landwirtschaft}%
+      }
+      \strng{namehash}{8a99b3b325a5ef4a51b843a491ad9697}
+      \strng{fullhash}{8a99b3b325a5ef4a51b843a491ad9697}
+      \strng{bibnamehash}{8a99b3b325a5ef4a51b843a491ad9697}
+      \strng{authorbibnamehash}{8a99b3b325a5ef4a51b843a491ad9697}
+      \strng{authornamehash}{8a99b3b325a5ef4a51b843a491ad9697}
+      \strng{authorfullhash}{8a99b3b325a5ef4a51b843a491ad9697}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Baumrinden-Monitoring der Pestizid-Belastung über die Luft: Eine toxikologische Bewertung}
+      \field{year}{2020}
     \endentry
     \entry{mci/Mohr2020}{inproceedings}{}
       \name{author}{2}{}{%

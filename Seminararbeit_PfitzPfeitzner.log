@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  11 JUN 2023 20:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  11 JUN 2023 21:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -675,7 +675,12 @@ chapter 6.
 
 ]
 chapter 7.
-(kapitel/fazit.tex) [10
+(kapitel/fazit.tex)
+Overfull \hbox (22.39348pt too wide) in paragraph at lines 1--96
+\OT1/cmr/m/n/10.95 mit-hil-fe von Sen-so-ren zu []uberwachen und zu be-ein-flus-sen. Auch mit dem Hin-ter-grund des Bev[]olkerungswachstums
+ []
+
+[10
 
 ]
 Overfull \hbox (3.99962pt too wide) in paragraph at lines 96--96
@@ -706,17 +711,17 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16920 strings out of 475385
- 367548 string characters out of 2775491
- 1399818 words of memory out of 3000000
- 38072 multiletter control sequences out of 15000+600000
+ 16930 strings out of 475385
+ 368024 string characters out of 2775491
+ 1402020 words of memory out of 3000000
+ 38082 multiletter control sequences out of 15000+600000
  475901 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,19n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Schniggo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (14 pages, 4424085 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (14 pages, 4427865 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
