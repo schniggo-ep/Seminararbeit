@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  11 JUN 2023 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  11 JUN 2023 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -579,7 +579,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Seminararbeit_PfitzPfeitzner.bbl' found.
- (Seminararbeit_PfitzPfeitzner.bbl)
+ (Seminararbeit_PfitzPfeitzner.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                oriolplanas2021
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 36.
 Package biblatex Info: Reference segment=0 on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -644,15 +652,19 @@ Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 9.
 (pdftex.def)             Requested size: 256.07481pt x 180.66515pt.
 ) [4 <./bilder/farmbot.png> <./bilder/farmdroid_fd20.png>]
 chapter 4.
-(kapitel/temperatursensor.tex (kapitel/infrarot.tex) (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex)) (kapitel/bodenfeuchtigkeitssensor.tex [5
+(kapitel/temperatursensor.tex (kapitel/infrarot.tex) (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex))
+
+LaTeX Warning: Citation 'oriolplanas2021' on page 5 undefined on input line 69.
+
+(kapitel/bodenfeuchtigkeitssensor.tex [5
 
 ] (kapitel/kapazitive Sensoren.tex)
-Overfull \hbox (5.29935pt too wide) in paragraph at lines 8--11
-\OT1/cmr/m/n/10.95 Wie die meis-ten be-reits wis-sen, lei-tet Was-ser Strom. Nat[]urlich l[]asst sich so-mit []uber die Leitf[]ahigkeit
+Overfull \hbox (6.21185pt too wide) in paragraph at lines 8--11
+\OT1/cmr/m/n/10.95 Wie die Meis-ten be-reits wis-sen, lei-tet Was-ser Strom. Nat[]urlich l[]asst sich so-mit []uber die Leitf[]ahigkeit
  []
 
 ) (kapitel/nahinfrarotspektroskopie.tex
-<bilder/Krone NIR Control dual.jpg, id=33, 426.80597pt x 267.399pt>
+<bilder/Krone NIR Control dual.jpg, id=34, 426.80597pt x 267.399pt>
 File: bilder/Krone NIR Control dual.jpg Graphic file (type jpg)
 <use bilder/Krone NIR Control dual.jpg>
 Package pdftex.def Info: bilder/Krone NIR Control dual.jpg  used on input line 18.
@@ -660,7 +672,7 @@ Package pdftex.def Info: bilder/Krone NIR Control dual.jpg  used on input line 1
 ) [6 <./bilder/Krone NIR Control dual.jpg>]
 chapter 5.
 (kapitel/ernteundsaat.tex) (kapitel/tierpflege.tex
-<bilder/futterroboter.jpg, id=37, 1204.5pt x 903.375pt>
+<bilder/futterroboter.jpg, id=38, 1204.5pt x 903.375pt>
 File: bilder/futterroboter.jpg Graphic file (type jpg)
 <use bilder/futterroboter.jpg>
 Package pdftex.def Info: bilder/futterroboter.jpg  used on input line 16.
@@ -691,11 +703,6 @@ Overfull \hbox (3.99962pt too wide) in paragraph at lines 96--96
  []
 
 
-Overfull \hbox (12.63844pt too wide) in paragraph at lines 96--96
-\OT1/cmr/m/sc/10.95 url\OT1/cmr/m/n/10.95 : $\OT1/cmtt/m/n/10.95 https : / / kernenergie . technology / blog / thermodynamik / temperatursensoren -[] verwendungen -[]
- []
-
-
 Overfull \hbox (5.87027pt too wide) in paragraph at lines 96--96
 []\OT1/cmr/m/n/10.95 Svenja Mohr und Rai-ner K[]uhl. []  K[]unstliche In-tel-li-genz in der Land-wirt-schaft\. In: \OT1/cmr/m/it/10.95 40. GIL-Jahrestagung,
  []
@@ -715,16 +722,16 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  16955 strings out of 476334
- 367873 string characters out of 5786047
- 1867382 words of memory out of 5000000
- 37153 multiletter control sequences out of 15000+600000
- 518929 words of font info for 54 fonts, out of 8000000 for 9000
+ 367764 string characters out of 5786047
+ 1866382 words of memory out of 5000000
+ 37152 multiletter control sequences out of 15000+600000
+ 519237 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,19n,106p,10675b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (14 pages, 4429835 bytes).
+ <C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Seminararbeit_PfitzPfeitzner.pdf (14 pages, 4441766 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

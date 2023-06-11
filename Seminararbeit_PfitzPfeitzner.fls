@@ -661,6 +661,7 @@ INPUT .\kapitel\thermoelemente.tex
 INPUT kapitel\thermoelemente.tex
 INPUT .\kapitel\thermoelemente.tex
 INPUT kapitel\thermoelemente.tex
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT .\kapitel\bodenfeuchtigkeitssensor.tex
 INPUT kapitel\bodenfeuchtigkeitssensor.tex
 INPUT .\kapitel\bodenfeuchtigkeitssensor.tex
@@ -744,6 +745,8 @@ INPUT Seminararbeit_PfitzPfeitzner.run.xml
 OUTPUT Seminararbeit_PfitzPfeitzner.run.xml
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

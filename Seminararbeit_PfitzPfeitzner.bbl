@@ -154,38 +154,6 @@
       \field{pages}{831\bibrangedash 1047}
       \range{pages}{217}
     \endentry
-    \entry{oriolplanas2021}{article}{}
-      \name{author}{1}{}{%
-        {{hash=2eb61760d42eb59924472b1f919fba72}{%
-           family={Planas},
-           familyi={P\bibinitperiod},
-           given={Oriol},
-           giveni={O\bibinitperiod}}}%
-      }
-      \strng{namehash}{2eb61760d42eb59924472b1f919fba72}
-      \strng{fullhash}{2eb61760d42eb59924472b1f919fba72}
-      \strng{bibnamehash}{2eb61760d42eb59924472b1f919fba72}
-      \strng{authorbibnamehash}{2eb61760d42eb59924472b1f919fba72}
-      \strng{authornamehash}{2eb61760d42eb59924472b1f919fba72}
-      \strng{authorfullhash}{2eb61760d42eb59924472b1f919fba72}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Kernenergie}
-      \field{title}{Temperatursensoren, Verwendungen und Arten von Sensoren}
-      \field{urlday}{30}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{year}{2021}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://kernenergie.technology/blog/thermodynamik/temperatursensoren-verwendungen-und-arten-von-sensoren
-      \endverb
-      \verb{url}
-      \verb https://kernenergie.technology/blog/thermodynamik/temperatursensoren-verwendungen-und-arten-von-sensoren
-      \endverb
-    \endentry
     \entry{koch2006neues}{article}{}
       \name{author}{2}{}{%
         {{hash=23e3e723da8b0c3ed241bf3c03e5f48d}{%
@@ -489,6 +457,7 @@
       \field{year}{2003}
     \endentry
   \enddatalist
+  \missing{oriolplanas2021}
 \endrefsection
 \endinput
 
