@@ -1,32 +1,32 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  11 JUN 2023 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.28)  11 JUN 2023 22:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex"
-(c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrreprt.cls
+**"c:/Users/Ms Laptop/Documents/GitHub/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex"
+(c:/Users/Ms Laptop/Documents/GitHub/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrreprt.cls
 Document Class: scrreprt 2022/10/12 v3.38 KOMA-Script document class (report)
-(C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
+(C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
 Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
 Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
 Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
 Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
-))) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+))) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
-)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
+)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
 Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
-\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numberwidth=\skip48
 \scr@dte@tocline@numbox=\box51
 )
 Package tocbasic Info: omitting babel extension for `toc'
@@ -39,11 +39,11 @@ Package scrreprt Info: You've used standard option `11pt'.
 (scrreprt)             you'd have to use `fontsize=11pt' there
 (scrreprt)             instead of `11pt', too.
 Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input line 2614.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt.clo
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt.clo
 File: scrsize11pt.clo 2022/10/12 v3.38 KOMA-Script font size class option (11pt)
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
 Package: typearea 2022/10/12 v3.38 KOMA-Script package (type area)
-\ta@bcor=\skip48
+\ta@bcor=\skip49
 \ta@div=\count185
 Package typearea Info: You've used standard option `a4paper'.
 (typearea)             This is correct!
@@ -51,10 +51,10 @@ Package typearea Info: You've used standard option `a4paper'.
 (typearea)             If you'd like to set the option with \KOMAoptions,
 (typearea)             you'd have to use `paper=a4' there
 (typearea)             instead of `a4paper', too.
-\ta@hblk=\skip49
-\ta@vblk=\skip50
-\ta@temp=\skip51
-\footheight=\skip52
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 10
 (typearea)             BCOR = 0.0pt
@@ -80,91 +80,91 @@ Package typearea Info: These are the values describing the layout:
 \c@subsubsection=\count190
 \c@paragraph=\count191
 \c@subparagraph=\count192
-\scr@dte@chapter@maxnumwidth=\skip53
+\scr@dte@chapter@maxnumwidth=\skip54
 Class scrreprt Info: using compatibility default `afterindent=bysign'
 (scrreprt)           for `\chapter on input line 5902.
-\scr@dte@section@maxnumwidth=\skip54
+\scr@dte@section@maxnumwidth=\skip55
 Class scrreprt Info: using compatibility default `runin=bysign'
 (scrreprt)           for `\section on input line 5913.
 Class scrreprt Info: using compatibility default `afterindent=bysign'
 (scrreprt)           for `\section on input line 5913.
-\scr@dte@part@maxnumwidth=\skip55
+\scr@dte@part@maxnumwidth=\skip56
 Class scrreprt Info: using compatibility default `afterindent=true'
 (scrreprt)           for `\part on input line 5922.
-\scr@dte@subsection@maxnumwidth=\skip56
+\scr@dte@subsection@maxnumwidth=\skip57
 Class scrreprt Info: using compatibility default `runin=bysign'
 (scrreprt)           for `\subsection on input line 5932.
 Class scrreprt Info: using compatibility default `afterindent=bysign'
 (scrreprt)           for `\subsection on input line 5932.
-\scr@dte@subsubsection@maxnumwidth=\skip57
+\scr@dte@subsubsection@maxnumwidth=\skip58
 Class scrreprt Info: using compatibility default `runin=bysign'
 (scrreprt)           for `\subsubsection on input line 5942.
 Class scrreprt Info: using compatibility default `afterindent=bysign'
 (scrreprt)           for `\subsubsection on input line 5942.
-\scr@dte@paragraph@maxnumwidth=\skip58
+\scr@dte@paragraph@maxnumwidth=\skip59
 Class scrreprt Info: using compatibility default `runin=bysign'
 (scrreprt)           for `\paragraph on input line 5953.
 Class scrreprt Info: using compatibility default `afterindent=bysign'
 (scrreprt)           for `\paragraph on input line 5953.
-\scr@dte@subparagraph@maxnumwidth=\skip59
+\scr@dte@subparagraph@maxnumwidth=\skip60
 Class scrreprt Info: using compatibility default `runin=bysign'
 (scrreprt)           for `\subparagraph on input line 5963.
 Class scrreprt Info: using compatibility default `afterindent=bysign'
 (scrreprt)           for `\subparagraph on input line 5963.
-\abovecaptionskip=\skip60
-\belowcaptionskip=\skip61
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
 \c@pti@nb@sid@b@x=\box52
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lof' on input line 7140.
-\scr@dte@figure@maxnumwidth=\skip62
+\scr@dte@figure@maxnumwidth=\skip63
 \c@figure=\count193
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 7157.
-\scr@dte@table@maxnumwidth=\skip63
+\scr@dte@table@maxnumwidth=\skip64
 \c@table=\count194
 Class scrreprt Info: Redefining `\numberline' on input line 7328.
-\bibindent=\dimen138
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+\bibindent=\dimen140
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count195
 \Gm@cntv=\count196
 \c@Gm@tempcnt=\count197
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-09-28 L3 programming layer (loader) 
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box53
 ))
-Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count199
 \l__lipsum_a_int=\count266
 \l__lipsum_b_int=\count267
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count268
 )
@@ -175,37 +175,35 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \csq@maxlvl=\count273
 \csq@tshold=\count274
 \csq@ltx@everypar=\toks20
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen147
-\stockheight=\dimen148
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-scrpage.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-scrpage.sty
 Package: scrlayer-scrpage 2022/10/12 v3.38 KOMA-Script package (end user interface for scrlayer)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.sty
 Package: scrlayer 2022/10/12 v3.38 KOMA-Script package (defining layers and page styles)
 Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 2176.
 )
@@ -216,52 +214,52 @@ Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
 1: chapter
 1: chapter
 1: section
-(C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/10/04 3.81 The Babel package
+(C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count275
 \U@D=\dimen151
 \l@unhyphenated=\language79
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count276
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
 Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
 Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthography)
 Package babel Info: Making " an active character on input line 122.
-))) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel-ngerman.tex
+))) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel-ngerman.tex
 Package babel Info: Importing font and identification data for ngerman
 (babel)             from babel-de.ini. Reported on input line 11.
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count277
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+)) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -308,14 +306,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@sectionciteorderinternal@0=\count318
 \blx@entrysetcounter=\count319
 \blx@biblioinstance=\count320
-\labelnumberwidth=\skip64
-\labelalphawidth=\skip65
-\biblabelsep=\skip66
-\bibitemsep=\skip67
-\bibnamesep=\skip68
-\bibinitsep=\skip69
-\bibparsep=\skip70
-\bibhang=\skip71
+\labelnumberwidth=\skip65
+\labelalphawidth=\skip66
+\biblabelsep=\skip67
+\bibitemsep=\skip68
+\bibnamesep=\skip69
+\bibinitsep=\skip70
+\bibparsep=\skip71
+\bibhang=\skip72
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
@@ -324,8 +322,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count323
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
-File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
@@ -399,29 +397,29 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count389
 \c@pageref=\count390
 \c@savedpageref=\count391
-\shorthandwidth=\skip72
-\shortjournalwidth=\skip73
-\shortserieswidth=\skip74
-\shorttitlewidth=\skip75
-\shortauthorwidth=\skip76
-\shorteditorwidth=\skip77
-\locallabelnumberwidth=\skip78
-\locallabelalphawidth=\skip79
-\localshorthandwidth=\skip80
-\localshortjournalwidth=\skip81
-\localshortserieswidth=\skip82
-\localshorttitlewidth=\skip83
-\localshortauthorwidth=\skip84
-\localshorteditorwidth=\skip85
+\shorthandwidth=\skip73
+\shortjournalwidth=\skip74
+\shortserieswidth=\skip75
+\shorttitlewidth=\skip76
+\shortauthorwidth=\skip77
+\shorteditorwidth=\skip78
+\locallabelnumberwidth=\skip79
+\locallabelalphawidth=\skip80
+\localshorthandwidth=\skip81
+\localshortjournalwidth=\skip82
+\localshortserieswidth=\skip83
+\localshorttitlewidth=\skip84
+\localshortauthorwidth=\skip85
+\localshorteditorwidth=\skip86
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
-File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
-File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \c@textcitecount=\count392
 \c@textcitetotal=\count393
 \c@textcitemaxnames=\count394
@@ -438,25 +436,25 @@ File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
-File: blx-natbib.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
-File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
-File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count401
 \c@bbx:relatedtotal=\count402
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
-File: numeric.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -471,19 +469,19 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2022-09-28 L3 programming layer (loader) 
+(biblatex)             2023-02-22 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2022-06-22 L3 Experimental document command parser
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2023-01-16 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -541,7 +539,7 @@ LaTeX Font Info:    ... okay on input line 36.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count403
 \scratchdimen=\dimen152
@@ -554,25 +552,25 @@ LaTeX Font Info:    ... okay on input line 36.
 \MPnumerator=\count407
 \makeMPintoPDFobject=\count408
 \everyMPtoPDFconversion=\toks22
-) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
-File: ngerman.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
+File: ngerman.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
-File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
-File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+ (C:\Users\Ms Laptop\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -592,7 +590,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Seminararbeit_PfitzPfeitzner.toc
+{C:/Users/Ms Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Seminararbeit_PfitzPfeitzner.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -648,7 +646,12 @@ Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 9.
 chapter 4.
 (kapitel/temperatursensor.tex (kapitel/infrarot.tex) (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex)) (kapitel/bodenfeuchtigkeitssensor.tex [5
 
-]) (kapitel/nahinfrarotspektroskopie.tex
+] (kapitel/kapazitive Sensoren.tex)
+Overfull \hbox (5.29935pt too wide) in paragraph at lines 8--11
+\OT1/cmr/m/n/10.95 Wie die meis-ten be-reits wis-sen, lei-tet Was-ser Strom. Nat[]urlich l[]asst sich so-mit []uber die Leitf[]ahigkeit
+ []
+
+) (kapitel/nahinfrarotspektroskopie.tex
 <bilder/Krone NIR Control dual.jpg, id=33, 426.80597pt x 267.399pt>
 File: bilder/Krone NIR Control dual.jpg Graphic file (type jpg)
 <use bilder/Krone NIR Control dual.jpg>
@@ -711,15 +714,15 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16930 strings out of 475385
- 368024 string characters out of 2775491
- 1402020 words of memory out of 3000000
- 38082 multiletter control sequences out of 15000+600000
- 475901 words of font info for 50 fonts, out of 8000000 for 9000
+ 16955 strings out of 476334
+ 367873 string characters out of 5786047
+ 1867382 words of memory out of 5000000
+ 37153 multiletter control sequences out of 15000+600000
+ 518929 words of font info for 54 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,19n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Schniggo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (14 pages, 4427865 bytes).
+ 108i,19n,106p,10675b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Ms Laptop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ms Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Seminararbeit_PfitzPfeitzner.pdf (14 pages, 4429835 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
