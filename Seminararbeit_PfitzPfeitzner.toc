@@ -7,14 +7,14 @@
 \contentsline {section}{\numberline {3.3}Roboterfahrzeuge}{4}{}%
 \contentsline {chapter}{\numberline {4}Sensorik}{5}{}%
 \contentsline {section}{\numberline {4.1}Temperatursensor}{5}{}%
-\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{5}{}%
-\contentsline {section}{\numberline {4.3}Mineralsensor}{5}{}%
-\contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{6}{}%
-\contentsline {section}{\numberline {5.1}Saat und Ernte}{6}{}%
-\contentsline {section}{\numberline {5.2}Tierpflege}{6}{}%
-\contentsline {section}{\numberline {5.3}Bodenpflege}{6}{}%
-\contentsline {section}{\numberline {5.4}Bewässerung}{6}{}%
-\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{7}{}%
-\contentsline {chapter}{\numberline {6}Herausforderungen}{8}{}%
-\contentsline {chapter}{\numberline {7}Fazit}{9}{}%
+\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{6}{}%
+\contentsline {section}{\numberline {4.3}Nahinfrarotspektroskopie}{6}{}%
+\contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{7}{}%
+\contentsline {section}{\numberline {5.1}Saat und Ernte}{7}{}%
+\contentsline {section}{\numberline {5.2}Tierpflege}{7}{}%
+\contentsline {section}{\numberline {5.3}Bodenpflege}{8}{}%
+\contentsline {section}{\numberline {5.4}Bewässerung}{8}{}%
+\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{8}{}%
+\contentsline {chapter}{\numberline {6}Herausforderungen}{9}{}%
+\contentsline {chapter}{\numberline {7}Fazit}{10}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
