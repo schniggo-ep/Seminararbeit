@@ -1,15 +1,15 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'Seminararbeit_PfitzPfeitzner.blg'
-[171] biber-MSWIN64:340> INFO - === 
-[242] Biber.pm:418> INFO - Reading 'Seminararbeit_PfitzPfeitzner.bcf'
-[339] Biber.pm:978> INFO - Found 3 citekeys in bib section 0
-[353] Biber.pm:4401> INFO - Processing section 0
-[374] Biber.pm:4592> INFO - Looking for bibtex file 'ref/ref.bib' for section 0
-[446] bibtex.pm:1713> INFO - LaTeX decoding ...
-[463] bibtex.pm:1518> INFO - Found BibTeX data source 'ref/ref.bib'
-[521] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[521] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[521] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[521] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
-[545] bbl.pm:654> INFO - Writing 'Seminararbeit_PfitzPfeitzner.bbl' with encoding 'UTF-8'
-[546] bbl.pm:757> INFO - Output to Seminararbeit_PfitzPfeitzner.bbl
+[109] biber-MSWIN64:340> INFO - === 
+[156] Biber.pm:418> INFO - Reading 'Seminararbeit_PfitzPfeitzner.bcf'
+[267] Biber.pm:978> INFO - Found 7 citekeys in bib section 0
+[280] Biber.pm:4401> INFO - Processing section 0
+[296] Biber.pm:4592> INFO - Looking for bibtex file 'ref/ref.bib' for section 0
+[545] bibtex.pm:1713> INFO - LaTeX decoding ...
+[555] bibtex.pm:1518> INFO - Found BibTeX data source 'ref/ref.bib'
+[604] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[604] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[604] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[604] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[612] bbl.pm:654> INFO - Writing 'Seminararbeit_PfitzPfeitzner.bbl' with encoding 'UTF-8'
+[615] bbl.pm:757> INFO - Output to Seminararbeit_PfitzPfeitzner.bbl

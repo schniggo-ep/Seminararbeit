@@ -649,17 +649,36 @@ INPUT .\kapitel\temperatursensor.tex
 INPUT kapitel\temperatursensor.tex
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\kapitel\infrarot.tex
+INPUT kapitel\infrarot.tex
+INPUT .\kapitel\infrarot.tex
+INPUT kapitel\infrarot.tex
+INPUT .\bilder\infrarot_pflanze.jpg
+INPUT .\bilder\infrarot_pflanze.jpg
+INPUT bilder\infrarot_pflanze.jpg
+INPUT .\bilder\infrarot_pflanze.jpg
+INPUT .\bilder\infrarot_pflanze.jpg
+INPUT .\bilder\infrarot_pflanze.jpg
+INPUT .\bilder\infrarot_pflanze.jpg
+INPUT .\kapitel\thermistoren.tex
+INPUT kapitel\thermistoren.tex
+INPUT .\kapitel\thermistoren.tex
+INPUT kapitel\thermistoren.tex
 INPUT .\kapitel\bodenfeuchtigkeitssensor.tex
 INPUT kapitel\bodenfeuchtigkeitssensor.tex
 INPUT .\kapitel\bodenfeuchtigkeitssensor.tex
 INPUT kapitel\bodenfeuchtigkeitssensor.tex
-INPUT .\kapitel\mineralsensor.tex
-INPUT .\kapitel\mineralsensor.tex
-INPUT .\kapitel\mineralsensor.tex
-INPUT kapitel\mineralsensor.tex
-INPUT .\kapitel\mineralsensor.tex
-INPUT .\kapitel\mineralsensor.tex
-INPUT kapitel\mineralsensor.tex
+INPUT .\kapitel\nahinfrarotspektroskopie.tex
+INPUT kapitel\nahinfrarotspektroskopie.tex
+INPUT .\kapitel\nahinfrarotspektroskopie.tex
+INPUT kapitel\nahinfrarotspektroskopie.tex
+INPUT .\bilder\Krone NIR Control dual.jpg
+INPUT .\bilder\Krone NIR Control dual.jpg
+INPUT bilder\Krone NIR Control dual.jpg
+INPUT .\bilder\Krone NIR Control dual.jpg
+INPUT .\bilder\Krone NIR Control dual.jpg
+INPUT .\bilder\Krone NIR Control dual.jpg
+INPUT .\bilder\Krone NIR Control dual.jpg
 INPUT .\kapitel\ernteundsaat.tex
 INPUT .\kapitel\ernteundsaat.tex
 INPUT .\kapitel\ernteundsaat.tex
@@ -674,6 +693,13 @@ INPUT kapitel\tierpflege.tex
 INPUT .\kapitel\tierpflege.tex
 INPUT .\kapitel\tierpflege.tex
 INPUT kapitel\tierpflege.tex
+INPUT .\bilder\futterroboter.jpg
+INPUT .\bilder\futterroboter.jpg
+INPUT bilder\futterroboter.jpg
+INPUT .\bilder\futterroboter.jpg
+INPUT .\bilder\futterroboter.jpg
+INPUT .\bilder\futterroboter.jpg
+INPUT .\bilder\futterroboter.jpg
 INPUT .\kapitel\bodenpflege.tex
 INPUT .\kapitel\bodenpflege.tex
 INPUT .\kapitel\bodenpflege.tex
