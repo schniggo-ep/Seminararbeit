@@ -290,6 +290,65 @@
       \field{pages}{838\bibrangedash 852}
       \range{pages}{15}
     \endentry
+    \entry{keilholz2019bewasserung}{article}{}
+      \name{author}{8}{}{%
+        {{hash=7fa7cfe17ef30b6bdb42dd82fe0a4b95}{%
+           family={Keilholz},
+           familyi={K\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4a3357946c975e73894c853142213296}{%
+           family={Spinnreker-Czichon},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a1e27ee964a58c86cede6c7f605d73ef}{%
+           family={Huttner},
+           familyi={H\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=11fa16cfde5ef2d9d6cc84236252bee2}{%
+           family={Augstein},
+           familyi={A\bibinitperiod},
+           given={Antje},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a414df410133cd444f76ee5fb499961}{%
+           family={Borsdorff},
+           familyi={B\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1506a3d91bab941fe1a6961139ff6610}{%
+           family={Erdle},
+           familyi={E\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e77587d5688b640282873ced2b41f911}{%
+           family={Ahlers},
+           familyi={A\bibinitperiod},
+           given={Siv},
+           giveni={S\bibinitperiod}}}%
+        {{hash=561e6444be47a04a954bd08b5ca80e44}{%
+           family={Deubel},
+           familyi={D\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5874c141ef183a7dad3038173d046e9}
+      \strng{fullhash}{c47f0afee7281c0270e51dd2c604fc87}
+      \strng{bibnamehash}{d5874c141ef183a7dad3038173d046e9}
+      \strng{authorbibnamehash}{d5874c141ef183a7dad3038173d046e9}
+      \strng{authornamehash}{d5874c141ef183a7dad3038173d046e9}
+      \strng{authorfullhash}{c47f0afee7281c0270e51dd2c604fc87}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{KW Korrespondenz Wasserwirtschaft,(ISSN: 1865-9926), S}
+      \field{title}{Bewässerung 4.0: ein möglicher Ansatz zur weiteren Optimierung der Bewässerung}
+      \field{year}{2019}
+      \field{pages}{510\bibrangedash 517}
+      \range{pages}{8}
+    \endentry
     \entry{bvl}{article}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}

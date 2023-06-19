@@ -1,32 +1,49 @@
 Eine weitere Anwendung, welche in der Landwirtschaft in Kombination mit
 Sensorik viel Einsatz findet ist Bewässerung. Vorallem durch das immer weniger
-werdende Grundwasser, sind Pflanzen auf eine externe Bewässerung angewiesen.
-\cite{liu2018self} Bewässerung kann auf unterschiedliche Arten realisiert
-werden. Man unterscheidet zwischen Flächenbewässerung und punktueller
-Bewässerung. Flächenbewässerung wird meist mit Sprenklern realisiert die mittig
-aufgestellt werden und so die Pflanzten von oben mit Wasser versorgen. Vorallem
-in sehr heißen Gebieten ist das recht ineffizient, da ein Großteil des Wassers
-auf der Pflanze verdunstet, bevor es aufgenommen werden kann. Ein sehr viel
-besseres System für die Freiflächenanwendung sind Schläuche, welche in
-Bodennähe verlegt werden. Mit vereinzelten Löchern wird durch den Schlauch
-Wasser abgegeben, welches direkt vom Boden aufgenommen werden kann und unter
-dem Pflanzen, geschützt vor der Sonne, nicht verdunstet. Der Nachteil an
-Schläuchen im Freien ist die Anfälligkeit gegenüber Zerstörung durch Tiere,
-besonders Marder neigen dazu, Schläuche aufzubeißen, womit eine Verluststelle
-im System besteht, die nur schwer bemerkt und lokalisiert werden kann. Einen
-weiteren Aspekt, den es zu beachten gilt, wenn Felder in freier Umgebung
-bewässert werden sollen, ist die dauerhafte Überwachung der Bodenfeuchtigkeit.
-Wenn es regnet, neigt ein bewässertes System schnell zur Überwässerung. Durch
-Bodenfeuchtigkeitssensoren (Kapitel 4.2) kann mithilfe eines Mikrokontrollers
-ein Feuchtigkeitsthreshold eingestellt werden, welcher sicherstellt, dass die
-Pflanzen genau die richtige Menge an Wasser bekommen. Außerdem gibt es Ansätze,
-zur passiven Versorgung mit Wasser, wobei man versucht, das Optimum aus
-Niederschlag und Grundwasser zu nutzen. Ein Beispiel hierfür beschäftigt sich
-mit der Idee ein T-Stück im Boden einzusetzen. Der obere Teil des T-Stücks soll
-das schnelle versickern des Niederschlags verhindern, womit die Pflanzen mehr
-Zeit haben diesen mithilfe der Wurzeln zu verwenden. Der untere Teil des Teils
-reicht bis zum Grundwasser. Wie bereits vorher erwähnt, ist der
-Grundwasserspiegel inzwischen zu niedrig, um von den Pflanzen erreicht zu
-werden. Mithilfe von kleinen Röhren wird die Kapillarkraft verwendet, um
-Grundwasser von unten, nach oben zu den Pflanzen zu transportieren, wobei das
-vollkommen autonom und ohne jegliche Ansteuerung funktioniert. \cite{liu2018self}
+werdende Grundwasser, sind Pflanzen auf eine externe Bewässerung
+angewiesen.\cite{liu2018self} Bewässerung kann auf unterschiedliche Arten
+realisiert werden. Man unterscheidet zwischen Flächenbewässerung und
+punktueller Bewässerung. Flächenbewässerung wird meist mit Sprenklern
+realisiert die mittig aufgestellt werden und so die Pflanzten von oben mit
+Wasser versorgen. Vorallem in sehr heißen Gebieten ist das recht ineffizient,
+da ein Großteil des Wassers auf der Pflanze verdunstet, bevor es aufgenommen
+werden kann. Ein sehr viel besseres System für die Freiflächenanwendung sind
+Schläuche, welche in Bodennähe verlegt werden. Mit vereinzelten Löchern wird
+durch den Schlauch Wasser abgegeben, welches direkt vom Boden aufgenommen
+werden kann und unter dem Pflanzen, geschützt vor der Sonne, nicht verdunstet.
+Der Nachteil an Schläuchen im Freien ist die Anfälligkeit gegenüber Zerstörung
+durch Tiere, besonders Marder neigen dazu, Schläuche aufzubeißen, womit eine
+Verluststelle im System besteht, die nur schwer bemerkt und lokalisiert werden
+kann. Einen weiteren Aspekt, den es zu beachten gilt, wenn Felder in freier
+Umgebung bewässert werden sollen, ist die dauerhafte Überwachung der
+Bodenfeuchtigkeit. Wenn es regnet, neigt ein bewässertes System schnell zur
+Überwässerung. Durch Bodenfeuchtigkeitssensoren (Kapitel 4.2) kann mithilfe
+eines Mikrokontrollers ein Feuchtigkeitsthreshold eingestellt werden, welcher
+sicherstellt, dass die Pflanzen genau die richtige Menge an Wasser bekommen.
+Außerdem gibt es Ansätze, zur passiven Versorgung mit Wasser, wobei man
+versucht, das Optimum aus Niederschlag und Grundwasser zu nutzen. Ein Beispiel
+hierfür beschäftigt sich mit der Idee ein T-Stück im Boden einzusetzen. Der
+obere Teil des T-Stücks soll das schnelle versickern des Niederschlags
+verhindern, womit die Pflanzen mehr Zeit haben diesen mithilfe der Wurzeln zu
+verwenden. Der untere Teil des Teils reicht bis zum Grundwasser. Wie bereits
+vorher erwähnt, ist der Grundwasserspiegel inzwischen zu niedrig, um von den
+Pflanzen erreicht zu werden. Mithilfe von kleinen Röhren wird die Kapillarkraft
+verwendet, um Grundwasser von unten, nach oben zu den Pflanzen zu
+transportieren, wobei das vollkommen autonom und ohne jegliche Ansteuerung
+funktioniert.\cite{liu2018self}
+
+Nicht nur die Hardware an sich kann helfen, die Bewässerung der Landwirtschaft
+zu verbessern. Durch den großen Einsatz von Sensoren können immer mehr
+Messergebnisse gesammelt werden. Durch den Einsatz von Modellen, welche
+Berechnungsansätze benutzen, können die komplexen Auswirkungen von
+Landwirtschaft auf den Wasserkreislauf dargestellt werden. Das kann zum
+Beispiel dafür verwendet werden, die Interzeption zu bestimmen zu bestimmen.
+Die Interzeption beschreibt das Wasser, welches aufgrund der Blätterabdeckung
+der Pflanzen bereits vor dem erreichen des Bodens verdunstet. Mithilfe des
+Blattflächenindex LAI und den Interzeptionskoeffizient $C_int$ kann die
+Interzeption durch folgende Formel berechnet werden: \\
+\begin{equation}
+    E_{can} = min(C_{int} * LAI,ET_{ref} * \Delta t)
+\end{equation}
+
+$ET_{ref}$ beschreibt dabei die Referenz-Evapotranspiration, welche die mögliche Grasvegetation bei ständiger Bodensättigung darstellt.\cite{keilholz2019bewasserung}
