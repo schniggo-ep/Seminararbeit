@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Seminararbeit_PfitzPfeitzner"] 1687288878 "Seminararbeit_PfitzPfeitzner.bcf" "Seminararbeit_PfitzPfeitzner.bbl" "Seminararbeit_PfitzPfeitzner" 1687289778 0
-  "Seminararbeit_PfitzPfeitzner.bcf" 1687289778 109348 e83af69299e4e5032d1d4dad48699bf6 "pdflatex"
+["biber Seminararbeit_PfitzPfeitzner"] 1687288878 "Seminararbeit_PfitzPfeitzner.bcf" "Seminararbeit_PfitzPfeitzner.bbl" "Seminararbeit_PfitzPfeitzner" 1687290267 0
+  "Seminararbeit_PfitzPfeitzner.bcf" 1687290267 109348 e83af69299e4e5032d1d4dad48699bf6 "pdflatex"
   "ref/ref.bib" 1687288847 9500 32ded0e086d338fd67e72be0804f55b8 ""
   (generated)
   "Seminararbeit_PfitzPfeitzner.bbl"
   "Seminararbeit_PfitzPfeitzner.blg"
   (rewritten before read)
-["pdflatex"] 1687289775 "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1687289778 0
+["pdflatex"] 1687290264 "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1687290267 0
   "C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1687256960 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1681297290 12668 e804428eaf57ebbf4bd373f1c4a2cad5 ""
   "C:/Users/Schniggo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1681297256 10789426 c63f85d904b58368a3e37f9a1a1326dd ""
@@ -132,12 +132,12 @@
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Seminararbeit_PfitzPfeitzner.aux" 1687289778 9980 92fe8b4799fe4e8218bec7184f1f3e79 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.aux" 1687290267 9980 c3801487b21b4727c8e32e3b74210b7b "pdflatex"
   "Seminararbeit_PfitzPfeitzner.bbl" 1687288881 39786 2f6a432b9c965bd7003e009136625f39 "biber Seminararbeit_PfitzPfeitzner"
-  "Seminararbeit_PfitzPfeitzner.lof" 1687289778 1086 98e1ced92ab05a42f0c6fb36bfef0f41 "pdflatex"
-  "Seminararbeit_PfitzPfeitzner.run.xml" 1687289778 2534 ddec8390d754dbf12cf74ba37e7c24a9 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.lof" 1687290267 1086 47db9c072515ea8185455a25a99f5dba "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.run.xml" 1687290267 2534 ddec8390d754dbf12cf74ba37e7c24a9 "pdflatex"
   "Seminararbeit_PfitzPfeitzner.tex" 1687286519 2714 5bfaabdf35a8d5c37b369ff939845810 ""
-  "Seminararbeit_PfitzPfeitzner.toc" 1687289778 1284 a534eb6fa474dab04456aaa313c66592 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.toc" 1687290267 1284 a534eb6fa474dab04456aaa313c66592 "pdflatex"
   "bilder/Krone NIR Control dual.jpg" 1685835564 2242512 acde0744bbebcc69b4ed1cdb491c8da2 ""
   "bilder/Measuring-crop-temperatures .jpeg" 1687280666 55692 c4d8db34cb670b4d7b1067c65a24c97c ""
   "bilder/Spaltenroboter_agrarfoto.com_.jpg" 1687283363 272890 a2c8268ba9407ef3cdeb7955a5767c9d ""
@@ -149,12 +149,12 @@
   "bilder/rteh.jpg" 1687286742 175595 1558d8b35bc60403ae5d9e1d5be8c07a ""
   "bilder/schaedlingsbekaempfung.svg" 1687256611 74066 21d2254ae9fb6b7f6daeb8e7ac906281 ""
   "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" 1687286519 2714 5bfaabdf35a8d5c37b369ff939845810 ""
-  "kapitel/bewaesserung.tex" 1687289652 3657 2bde505757b91cd537582e2a86130603 ""
-  "kapitel/bodenfeuchtigkeitssensor.tex" 1687289280 858 892becb18e7846a25ee9053ce7d004e1 ""
+  "kapitel/bewaesserung.tex" 1687290263 3659 ec789849c8d0ca6807927809b9a40689 ""
+  "kapitel/bodenfeuchtigkeitssensor.tex" 1687290085 1253 82f24a89a626e4d3a05c554036fd76d4 ""
   "kapitel/drohnen.tex" 1687289528 1758 6266ff6050f72defce325e36639c715d ""
-  "kapitel/einleitung.tex" 1687284941 2085 0a15d39651c572574b19af8f7213a3a5 ""
-  "kapitel/ernteundsaat.tex" 1687289044 1970 f73c83932b8692f4c4cbeb9fe64b739a ""
-  "kapitel/fazit.tex" 1687286277 1628 627e4254dc84cffa21e74e5be17cb54a ""
+  "kapitel/einleitung.tex" 1687290233 2086 304b2cc3a28c30cf4d611aee87d34126 ""
+  "kapitel/ernteundsaat.tex" 1687290219 1978 b8004602d5ddfa9f1afcfd67b48544b5 ""
+  "kapitel/fazit.tex" 1687290250 1629 2995e4315c0123afff6755f868d8124c ""
   "kapitel/hauptteil.tex" 1687281371 2907 9d09a76d211a829eeac185f1155a8022 ""
   "kapitel/infrarot.tex" 1687287003 2402 9075b3de7e03fca2da820f0c7445f6fc ""
   "kapitel/kapazitive Sensoren.tex" 1686607861 565 e7c73786b208f37f6a7d3bc8d042284d ""
