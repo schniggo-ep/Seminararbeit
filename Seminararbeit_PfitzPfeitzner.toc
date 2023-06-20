@@ -11,10 +11,10 @@
 \contentsline {section}{\numberline {4.3}Nahinfrarotspektroskopie}{9}{}%
 \contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{10}{}%
 \contentsline {section}{\numberline {5.1}Saat und Ernte}{10}{}%
-\contentsline {section}{\numberline {5.2}Tierpflege}{10}{}%
+\contentsline {section}{\numberline {5.2}Tierpflege}{11}{}%
 \contentsline {section}{\numberline {5.3}Bodenpflege}{11}{}%
-\contentsline {section}{\numberline {5.4}Bewässerung}{11}{}%
-\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{12}{}%
+\contentsline {section}{\numberline {5.4}Bewässerung}{12}{}%
+\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{13}{}%
 \contentsline {chapter}{\numberline {6}Künstliche Intelligenz}{14}{}%
 \contentsline {chapter}{\numberline {7}Fazit}{15}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 14:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -577,20 +577,20 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (Seminararbeit_PfitzPfeitzner.aux)
 \openout1 = `Seminararbeit_PfitzPfeitzner.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -679,12 +679,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Seminararbeit_PfitzPfeitzner.bbl' found.
  (Seminararbeit_PfitzPfeitzner.bbl)
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 48.
+(Font)              <14.4> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 47.
  [1
 
 
@@ -705,7 +705,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 chapter 1.
 (kapitel/einleitung.tex)
-Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--55
+Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--54
 \OT1/cmr/m/n/10.95 Vorallem die Au-to-mo-bil-in-dus-trie hat be-reits fr[]uh be-gon-nen sich mit Au-to-ma-ti-sie-rung zu besch[]aftigen.
  []
 
@@ -717,7 +717,7 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=20.4pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 55.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 54.
 
 
 Overfull \vbox (3.4pt too high) has occurred while \output is active []
@@ -732,7 +732,7 @@ Package scrlayer-scrpage Warning: \footheight to low.
 (scrlayer-scrpage)                e.g., using
 (scrlayer-scrpage)                  \setlength{\footheight}{20.4pt}
 (scrlayer-scrpage)                in your preamble.
-(scrlayer-scrpage)                I'll also increase \footskip on input line 55.
+(scrlayer-scrpage)                I'll also increase \footskip on input line 54.
 
 [1
 
@@ -749,12 +749,12 @@ File: bilder/drohne_im_sprüheinsatz.png Graphic file (type png)
 Package pdftex.def Info: bilder/drohne_im_sprüheinsatz.png  used on input line 6.
 (pdftex.def)             Requested size: 318.66948pt x 212.3pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 11--62
+Underfull \hbox (badness 10000) in paragraph at lines 11--61
 
  []
 
 
-Overfull \hbox (5.84262pt too wide) in paragraph at lines 11--62
+Overfull \hbox (5.84262pt too wide) in paragraph at lines 11--61
 \OT1/cmr/m/n/10.95 Ein zus[]atzliches weit ver-brei-te-tes Ein-satz-ge-biet von Droh-nen im All-ge-mei-nen ist die []Uberwachung. 
  []
 
@@ -775,7 +775,7 @@ Package pdftex.def Info: bilder/farmbot.png  used on input line 11.
 File: bilder/farmdroid_fd20.png Graphic file (type png)
 <use bilder/farmdroid_fd20.png>
 Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 9.
-(pdftex.def)             Requested size: 227.62206pt x 160.59697pt.
+(pdftex.def)             Requested size: 318.66948pt x 224.83318pt.
 ) [5 <./bilder/farmdroid_fd20.png>]
 chapter 4.
 (kapitel/temperatursensor.tex (kapitel/infrarot.tex
@@ -808,15 +808,16 @@ Overfull \hbox (0.10922pt too wide) in paragraph at lines 1--13
 \OT1/cmr/m/n/10.95 Man ben[]otigt le-dig-lich ein Sys-tem, das Fut-ter von gro^^Yen La-ger-beh[]altern zu den St[]allen/Gehegen
  []
 
-<bilder/futterroboter.jpg, id=54, 1204.5pt x 903.375pt>
+[10
+
+]
+<bilder/futterroboter.jpg, id=57, 1204.5pt x 903.375pt>
 File: bilder/futterroboter.jpg Graphic file (type jpg)
 <use bilder/futterroboter.jpg>
 Package pdftex.def Info: bilder/futterroboter.jpg  used on input line 16.
 (pdftex.def)             Requested size: 318.66948pt x 239.00728pt.
-) [10
-
-] (kapitel/bodenpflege.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--85
+) (kapitel/bodenpflege.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--84
 
  []
 
@@ -825,15 +826,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--45
 
  []
 
-) (kapitel/schaedlingsbekaempfung.tex [12]
-Package svg Info: Last page of `./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf' is 2 on input line 21.
+[12]) (kapitel/schaedlingsbekaempfung.tex
+Package svg Info: Last page of `./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf' is 2 on input line 22.
  (svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf_tex
-<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=68, page=1, 1290.70267pt x 416.27722pt>
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=66, page=1, 1290.70267pt x 416.27722pt>
 File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 318.66948pt x 102.77325pt.
-<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=69, page=2, 1290.70267pt x 416.27722pt>
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=67, page=2, 1290.70267pt x 416.27722pt>
 File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page2 used on input line 58.
@@ -852,7 +853,7 @@ chapter 7.
 ] [16
 
 ]
-Overfull \hbox (28.94846pt too wide) in paragraph at lines 98--98
+Overfull \hbox (28.94846pt too wide) in paragraph at lines 97--97
 \OT1/cmr/m/it/10.95 K[]unstliche In-tel-li-genz in der Pra-xis: An-wen-dung in Un-ter-neh-men und Bran-chen: KI wettbewerbs-
  []
 
@@ -868,15 +869,15 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19171 strings out of 475385
- 418726 string characters out of 2775491
- 1456144 words of memory out of 3000000
- 40225 multiletter control sequences out of 15000+600000
+ 19178 strings out of 475385
+ 419054 string characters out of 2775491
+ 1456277 words of memory out of 3000000
+ 40232 multiletter control sequences out of 15000+600000
  475901 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,19n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,20n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Schniggo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (20 pages, 4643233 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (20 pages, 4644458 bytes).
 PDF statistics:
  227 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

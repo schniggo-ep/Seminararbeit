@@ -272,6 +272,44 @@
       \field{pages}{72\bibrangedash 83}
       \range{pages}{12}
     \endentry
+    \entry{naik2016precision}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a5999a3b0413d34990074339426f103d}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Neha\bibnamedelima S},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=75e0587ef0992e781b9a0a7f24833cea}{%
+           family={Shete},
+           familyi={S\bibinitperiod},
+           given={Virendra\bibnamedelima V},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=8ad0ee66ee74ddd170aa3f4553f077a8}{%
+           family={Danve},
+           familyi={D\bibinitperiod},
+           given={Shruti\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{61654627eb0f270df1f2c4c7bb10140a}
+      \strng{fullhash}{61654627eb0f270df1f2c4c7bb10140a}
+      \strng{bibnamehash}{61654627eb0f270df1f2c4c7bb10140a}
+      \strng{authorbibnamehash}{61654627eb0f270df1f2c4c7bb10140a}
+      \strng{authornamehash}{61654627eb0f270df1f2c4c7bb10140a}
+      \strng{authorfullhash}{61654627eb0f270df1f2c4c7bb10140a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 international conference on inventive computation technologies (ICICT)}
+      \field{title}{Precision agriculture robot for seeding function}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+    \endentry
     \entry{liu2018self}{article}{}
       \name{author}{3}{}{%
         {{hash=e8c0010ab32e4255b70bd8d9fefdf5cd}{%
@@ -412,6 +450,28 @@
       \field{title}{Baumrinden-Monitoring der Pestizid-Belastung über die Luft: Eine toxikologische Bewertung}
       \field{year}{2020}
     \endentry
+    \entry{hoing2020entwicklung}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=56544997fed82699cf7009ab6beb9707}{%
+           family={Höing},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{56544997fed82699cf7009ab6beb9707}
+      \strng{fullhash}{56544997fed82699cf7009ab6beb9707}
+      \strng{bibnamehash}{56544997fed82699cf7009ab6beb9707}
+      \strng{authorbibnamehash}{56544997fed82699cf7009ab6beb9707}
+      \strng{authornamehash}{56544997fed82699cf7009ab6beb9707}
+      \strng{authorfullhash}{56544997fed82699cf7009ab6beb9707}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Entwicklung einer Robotik-Lösung zur Schneckenbekämpfung in der Landwirtschaft}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+    \endentry
     \entry{mci/Mohr2020}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=c2b4a4f5f3cb0611895777f3421680c1}{%
@@ -528,8 +588,8 @@
       \strng{authorbibnamehash}{336d1328028d2adc950d1ee07c1c0006}
       \strng{authornamehash}{336d1328028d2adc950d1ee07c1c0006}
       \strng{authorfullhash}{336d1328028d2adc950d1ee07c1c0006}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Der Diskurs der Überbevölkerung: zu Metaphorik und Funktion einer in Aussicht gestellten globalen Katastrophe}
