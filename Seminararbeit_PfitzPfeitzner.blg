@@ -1,0 +1,26 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Seminararbeit_PfitzPfeitzner.blg'
+[132] biber-MSWIN64:340> INFO - === 
+[196] Biber.pm:418> INFO - Reading 'Seminararbeit_PfitzPfeitzner.bcf'
+[345] Biber.pm:978> INFO - Found 30 citekeys in bib section 0
+[360] Biber.pm:4401> INFO - Processing section 0
+[372] Biber.pm:4592> INFO - Looking for bibtex file 'ref/ref.bib' for section 0
+[679] bibtex.pm:1713> INFO - LaTeX decoding ...
+[725] bibtex.pm:1518> INFO - Found BibTeX data source 'ref/ref.bib'
+[908] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[908] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[908] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[908] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[934] bbl.pm:654> INFO - Writing 'Seminararbeit_PfitzPfeitzner.bbl' with encoding 'UTF-8'
+[950] bbl.pm:757> INFO - Output to Seminararbeit_PfitzPfeitzner.bbl
+[950] Biber.pm:130> WARN - Entry 'Drohne' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[950] Biber.pm:130> WARN - Entry 'reh' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - Entry 'farmBotExpress' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - Entry 'Wurst' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - Entry 'IRPflanze' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - Entry 'IR' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - Entry 'Krone' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - Entry 'Futterroboter' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - Entry 'Reinigungsroboter' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[951] Biber.pm:130> WARN - I didn't find a database entry for 'agrarheute' (section 0)
+[951] Biber.pm:132> INFO - WARNINGS: 10
