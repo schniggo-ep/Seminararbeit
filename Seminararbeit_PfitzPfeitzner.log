@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 20:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 21:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -803,56 +803,45 @@ Package pdftex.def Info: bilder/drtohne.jpg  used on input line 9.
 
 LaTeX Warning: Reference `fig:sprühdrohne' on page 3 undefined on input line 14.
 
-
-LaTeX Warning: Reference `fig:rehkitz' on page 3 undefined on input line 23.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--27
-
- []
-
-
-Overfull \hbox (5.84262pt too wide) in paragraph at lines 14--27
+)
+Overfull \hbox (5.84262pt too wide) in paragraph at lines 14--61
 \OT1/cmr/m/n/10.95 Ein zus[]atzliches weit ver-brei-te-tes Ein-satz-ge-biet von Droh-nen im All-ge-mei-nen ist die []Uberwachung: 
  []
 
-<bilder/rteh.jpg, id=22, 601.4972pt x 401.24907pt>
-File: bilder/rteh.jpg Graphic file (type jpg)
-<use bilder/rteh.jpg>
-Package pdftex.def Info: bilder/rteh.jpg  used on input line 30.
-(pdftex.def)             Requested size: 318.66948pt x 212.58751pt.
-) [3
-
- <./bilder/drtohne.jpg>] (kapitel/schienensysteme.tex
+(kapitel/schienensysteme.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
  []
 
-<bilder/farmbot.png, id=27, 495.56572pt x 231.47049pt>
+[3
+
+ <./bilder/drtohne.jpg>]
+<bilder/farmbot.png, id=26, 495.56572pt x 231.47049pt>
 File: bilder/farmbot.png Graphic file (type png)
 <use bilder/farmbot.png>
 Package pdftex.def Info: bilder/farmbot.png  used on input line 11.
 (pdftex.def)             Requested size: 318.66948pt x 148.84344pt.
 
+
 LaTeX Warning: Reference `fig:farmbot' on page 4 undefined on input line 16.
 
-) [4 <./bilder/rteh.jpg> <./bilder/farmbot.png>] (kapitel/roboterfahrzeuge.tex
-<bilder/farmdroid_fd20.png, id=31, 1196.47pt x 844.15375pt>
+) (kapitel/roboterfahrzeuge.tex
+<bilder/farmdroid_fd20.png, id=27, 1196.47pt x 844.15375pt>
 File: bilder/farmdroid_fd20.png Graphic file (type png)
 <use bilder/farmdroid_fd20.png>
 Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 9.
 (pdftex.def)             Requested size: 318.66948pt x 224.83318pt.
-
+ [4 <./bilder/farmbot.png>]
 
 LaTeX Warning: Reference `fig:farmdroid_fd20' on page 5 undefined on input line 14.
 
-) [5 <./bilder/farmdroid_fd20.png>] [6]
+) [5 <./bilder/farmdroid_fd20.png>]
 chapter 3.
 (kapitel/temperatursensor.tex (kapitel/infrarot.tex
 
-LaTeX Warning: Reference `fig:infrarot_pflanze' on page 7 undefined on input line 6.
+LaTeX Warning: Reference `fig:infrarot_pflanze' on page 6 undefined on input line 6.
 
-<bilder/Measuring-crop-temperatures .jpeg, id=39, 602.25pt x 602.25pt>
+<bilder/Measuring-crop-temperatures .jpeg, id=35, 602.25pt x 602.25pt>
 File: bilder/Measuring-crop-temperatures .jpeg Graphic file (type jpg)
 <use bilder/Measuring-crop-temperatures .jpeg>
 Package pdftex.def Info: bilder/Measuring-crop-temperatures .jpeg  used on input line 10.
@@ -861,87 +850,87 @@ Package pdftex.def Info: bilder/Measuring-crop-temperatures .jpeg  used on input
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:aufbau infrarotsensor' on page 7 undefined on input line 16.
+LaTeX Warning: Reference `fig:aufbau infrarotsensor' on page 6 undefined on input line 16.
 
-<bilder/infrarotsensor.png, id=40, 311.66437pt x 199.49532pt>
+<bilder/infrarotsensor.png, id=36, 311.66437pt x 199.49532pt>
 File: bilder/infrarotsensor.png Graphic file (type png)
 <use bilder/infrarotsensor.png>
 Package pdftex.def Info: bilder/infrarotsensor.png  used on input line 19.
 (pdftex.def)             Requested size: 318.66948pt x 203.98174pt.
-) [7
+) [6
 
-] (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex [8 <./bilder/Measuring-crop-temperatures .jpeg>])) (kapitel/bodenfeuchtigkeitssensor.tex (kapitel/kapazitive Sensoren.tex) [9 <./bilder/infrarotsensor.png>]) (kapitel/nahinfrarotspektroskopie.tex
+] (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex [7 <./bilder/Measuring-crop-temperatures .jpeg>])) (kapitel/bodenfeuchtigkeitssensor.tex (kapitel/kapazitive Sensoren.tex) [8 <./bilder/infrarotsensor.png>]) (kapitel/nahinfrarotspektroskopie.tex
 
-LaTeX Warning: Reference `fig:Mähhdrescher NIR-Sensor' on page 10 undefined on input line 14.
+LaTeX Warning: Reference `fig:Mähhdrescher NIR-Sensor' on page 9 undefined on input line 14.
 
-<bilder/Krone NIR Control dual.jpg, id=55, 426.80597pt x 267.399pt>
+<bilder/Krone NIR Control dual.jpg, id=51, 426.80597pt x 267.399pt>
 File: bilder/Krone NIR Control dual.jpg Graphic file (type jpg)
 <use bilder/Krone NIR Control dual.jpg>
 Package pdftex.def Info: bilder/Krone NIR Control dual.jpg  used on input line 18.
 (pdftex.def)             Requested size: 318.66948pt x 199.65927pt.
-) [10 <./bilder/Krone NIR Control dual.jpg>] [11]
+) [9 <./bilder/Krone NIR Control dual.jpg>] [10]
 chapter 4.
 (kapitel/ernteundsaat.tex) (kapitel/tierpflege.tex
 
-LaTeX Warning: Reference `fig:futterroboter' on page 12 undefined on input line 12.
+LaTeX Warning: Reference `fig:futterroboter' on page 11 undefined on input line 12.
 
 
 Overfull \hbox (0.10922pt too wide) in paragraph at lines 1--13
 \OT1/cmr/m/n/10.95 Man ben[]otigt le-dig-lich ein Sys-tem, das Fut-ter von gro^^Yen La-ger-beh[]altern zu den St[]allen/Gehegen
  []
 
-[12
+[11
 
 ]
-<bilder/futterroboter.jpg, id=66, 1204.5pt x 903.375pt>
+<bilder/futterroboter.jpg, id=62, 1204.5pt x 903.375pt>
 File: bilder/futterroboter.jpg Graphic file (type jpg)
 <use bilder/futterroboter.jpg>
 Package pdftex.def Info: bilder/futterroboter.jpg  used on input line 16.
 (pdftex.def)             Requested size: 318.66948pt x 239.00728pt.
 
 
-LaTeX Warning: Reference `fig:rroboter' on page 13 undefined on input line 22.
+LaTeX Warning: Reference `fig:rroboter' on page 12 undefined on input line 22.
 
-<bilder/Spaltenroboter_agrarfoto.com_.jpg, id=67, 803.0pt x 573.14125pt>
+<bilder/Spaltenroboter_agrarfoto.com_.jpg, id=63, 803.0pt x 573.14125pt>
 File: bilder/Spaltenroboter_agrarfoto.com_.jpg Graphic file (type jpg)
 <use bilder/Spaltenroboter_agrarfoto.com_.jpg>
 Package pdftex.def Info: bilder/Spaltenroboter_agrarfoto.com_.jpg  used on input line 26.
 (pdftex.def)             Requested size: 318.66948pt x 227.45088pt.
 
-LaTeX Warning: Citation 'agrarheute' on page 13 undefined on input line 45.
+LaTeX Warning: Citation 'agrarheute' on page 12 undefined on input line 45.
 
-) [13 <./bilder/futterroboter.jpg>] (kapitel/bewaesserung.tex [14 <./bilder/Spaltenroboter_agrarfoto.com_.jpg>]
+) [12 <./bilder/futterroboter.jpg>] (kapitel/bewaesserung.tex [13 <./bilder/Spaltenroboter_agrarfoto.com_.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 34--44
 
  []
 
 ) (kapitel/schaedlingsbekaempfung.tex
 
-LaTeX Warning: Reference `fig:schaedlingsbekaempfung' on page 15 undefined on input line 18.
+LaTeX Warning: Reference `fig:schaedlingsbekaempfung' on page 14 undefined on input line 18.
 
-[15]
+[14]
 Package svg Info: Last page of `./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf' is 2 on input line 22.
  (svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf_tex
-<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=80, page=1, 1290.70267pt x 416.27722pt>
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=76, page=1, 1290.70267pt x 416.27722pt>
 File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 318.66948pt x 102.77325pt.
-<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=81, page=2, 1290.70267pt x 416.27722pt>
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=77, page=2, 1290.70267pt x 416.27722pt>
 File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 318.66948pt x 102.77325pt.
-)) [16 <./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf> <./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf
+)) [15 <./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf> <./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 chapter 5.
-(kapitel/künstliche Intelligenz.tex) [17
+(kapitel/künstliche Intelligenz.tex) [16
 
 ]
 chapter 6.
-(kapitel/fazit.tex) [18
+(kapitel/fazit.tex) [17
 
 ]
 c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex:95: Misplaced alignment tab character &.
@@ -966,24 +955,24 @@ Overfull \hbox (22.21303pt too wide) in paragraph at lines 95--95
 []\OT1/cmr/m/n/10.95 python-exemplarisch. \OT1/cmr/m/it/10.95 Licht und Infrarot-Sensoren\OT1/cmr/m/n/10.95 . \OT1/cmr/m/sc/10.95 url\OT1/cmr/m/n/10.95 : $\OT1/cmtt/m/n/10.95 https : / / www . python -[] exemplarisch .
  []
 
-[19
+[18
 
 ]
 Overfull \hbox (14.71678pt too wide) in paragraph at lines 95--95
 []\OT1/cmr/m/n/10.95 Ruhsamer Ame-lie. \OT1/cmr/m/it/10.95 Im Check: K[]uhe mit dem Ro-bo-ter f[]uttern\OT1/cmr/m/n/10.95 . \OT1/cmr/m/sc/10.95 url\OT1/cmr/m/n/10.95 : $\OT1/cmtt/m/n/10.95 https : / / www . agrarheute .
  []
 
-[20]
+[19]
 Overfull \hbox (28.94846pt too wide) in paragraph at lines 95--95
 \OT1/cmr/m/it/10.95 K[]unstliche In-tel-li-genz in der Pra-xis: An-wen-dung in Un-ter-neh-men und Bran-chen: KI wettbewerbs-
  []
 
-[21]
+[20]
 No file Seminararbeit_PfitzPfeitzner.lof.
 \tf@lof=\write6
 \openout6 = `Seminararbeit_PfitzPfeitzner.lof'.
 
-[22
+[21
 
 ] (Seminararbeit_PfitzPfeitzner.aux)
 
@@ -1002,17 +991,17 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19217 strings out of 475385
- 420323 string characters out of 2775491
+ 19209 strings out of 475385
+ 420181 string characters out of 2775491
  1456783 words of memory out of 3000000
- 40274 multiletter control sequences out of 15000+600000
+ 40267 multiletter control sequences out of 15000+600000
  476209 words of font info for 51 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,19n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Schniggo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (24 pages, 5189706 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (23 pages, 5013232 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
+ 242 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
 

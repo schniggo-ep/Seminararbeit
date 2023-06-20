@@ -1,11 +1,11 @@
 # Fdb version 4
 ["biber Seminararbeit_PfitzPfeitzner"] 0 "Seminararbeit_PfitzPfeitzner.bcf" "Seminararbeit_PfitzPfeitzner.bbl" "Seminararbeit_PfitzPfeitzner" 0 -1
-  "Seminararbeit_PfitzPfeitzner.bcf" 1687287601 109348 e83af69299e4e5032d1d4dad48699bf6 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.bcf" 1687288475 109230 4278e169d0cfa7b1bbbc979929f48c77 "pdflatex"
   (generated)
   "Seminararbeit_PfitzPfeitzner.bbl"
   "Seminararbeit_PfitzPfeitzner.blg"
   (rewritten before read)
-["pdflatex"] 1687287598 "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1687287601 2
+["pdflatex"] 1687288472 "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" "Seminararbeit_PfitzPfeitzner.pdf" "Seminararbeit_PfitzPfeitzner" 1687288475 2
   "C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1687256960 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1681297290 12668 e804428eaf57ebbf4bd373f1c4a2cad5 ""
   "C:/Users/Schniggo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1681297256 10789426 c63f85d904b58368a3e37f9a1a1326dd ""
@@ -130,12 +130,12 @@
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Seminararbeit_PfitzPfeitzner.aux" 1687287601 9778 b84033dc5200148e59180af383597790 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.aux" 1687288475 9522 1c8bf197355c510b98504f7187301cf1 "pdflatex"
   "Seminararbeit_PfitzPfeitzner.bbl" 1687286872 39784 51fac4c719264b80f314180a8909c4d2 "biber Seminararbeit_PfitzPfeitzner"
-  "Seminararbeit_PfitzPfeitzner.lof" 1687287601 1086 98e1ced92ab05a42f0c6fb36bfef0f41 "pdflatex"
-  "Seminararbeit_PfitzPfeitzner.run.xml" 1687287601 2534 6d4673d8398df2e8fb89c705af432c72 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.lof" 1687288475 1000 1f7409cc188070acbb89371e890422dd "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.run.xml" 1687288475 2534 6d4673d8398df2e8fb89c705af432c72 "pdflatex"
   "Seminararbeit_PfitzPfeitzner.tex" 1687286519 2714 5bfaabdf35a8d5c37b369ff939845810 ""
-  "Seminararbeit_PfitzPfeitzner.toc" 1687287601 1284 a534eb6fa474dab04456aaa313c66592 "pdflatex"
+  "Seminararbeit_PfitzPfeitzner.toc" 1687288475 1283 e4b016489cffeab849cb784ff629460a "pdflatex"
   "bilder/Krone NIR Control dual.jpg" 1685835564 2242512 acde0744bbebcc69b4ed1cdb491c8da2 ""
   "bilder/Measuring-crop-temperatures .jpeg" 1687280666 55692 c4d8db34cb670b4d7b1067c65a24c97c ""
   "bilder/Spaltenroboter_agrarfoto.com_.jpg" 1687283363 272890 a2c8268ba9407ef3cdeb7955a5767c9d ""
@@ -144,12 +144,11 @@
   "bilder/farmdroid_fd20.png" 1682431423 374279 de1f08b36630ce53b5e6fcdea9a5bcb8 ""
   "bilder/futterroboter.jpg" 1685842207 681072 4fc9aec91aa01504c5bc8ad495628c6c ""
   "bilder/infrarotsensor.png" 1685744529 25087 addce726798ed704217a7daf493a320c ""
-  "bilder/rteh.jpg" 1687286742 175595 1558d8b35bc60403ae5d9e1d5be8c07a ""
   "bilder/schaedlingsbekaempfung.svg" 1687256611 74066 21d2254ae9fb6b7f6daeb8e7ac906281 ""
   "c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex" 1687286519 2714 5bfaabdf35a8d5c37b369ff939845810 ""
   "kapitel/bewaesserung.tex" 1687287160 3513 b1c7a8482088e5600b7548ed58ceed36 ""
   "kapitel/bodenfeuchtigkeitssensor.tex" 1687287574 824 c0e2e354b39eb1dbf11665c03b57061a ""
-  "kapitel/drohnen.tex" 1687287306 1732 b12b927ed7db13f8867d78d13237d373 ""
+  "kapitel/drohnen.tex" 1687288467 1507 7c47d03f1205e15806022db0355c8cd0 ""
   "kapitel/einleitung.tex" 1687284941 2085 0a15d39651c572574b19af8f7213a3a5 ""
   "kapitel/ernteundsaat.tex" 1687287113 1968 e81d74fe067f128510e180bce35b10c1 ""
   "kapitel/fazit.tex" 1687286277 1628 627e4254dc84cffa21e74e5be17cb54a ""
@@ -165,7 +164,7 @@
   "kapitel/thermistoren.tex" 1687287073 585 24d7d6ddae1e91ff55322dda7ed499d2 ""
   "kapitel/thermoelemente.tex" 1687250441 816 f91b4bd387c0332bf422be91db4311be ""
   "kapitel/tierpflege.tex" 1687287132 2695 07b3d5a0eaf400e9223b3ea7b45d18a2 ""
-  "ref/ref.bib" 1687287596 9502 6dbaaae8b3c3b740082574125948cf28 ""
+  "ref/ref.bib" 1687288011 9215 fc7c067f62a9c83954a95f92acb1422b ""
   "svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf" 1687257823 44802 5417c722266783ce0e3bc50131ea6376 ""
   "svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf_tex" 1687257823 2512 3ea37a65dbebdb10b3745ef90c152e2b ""
   (generated)
