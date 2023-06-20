@@ -653,13 +653,6 @@ INPUT .\kapitel\infrarot.tex
 INPUT kapitel\infrarot.tex
 INPUT .\kapitel\infrarot.tex
 INPUT kapitel\infrarot.tex
-INPUT .\bilder\infrarotsensor.png
-INPUT .\bilder\infrarotsensor.png
-INPUT bilder\infrarotsensor.png
-INPUT .\bilder\infrarotsensor.png
-INPUT .\bilder\infrarotsensor.png
-INPUT .\bilder\infrarotsensor.png
-INPUT .\bilder\infrarotsensor.png
 INPUT .\bilder\infrarot_pflanze.jpg
 INPUT .\bilder\infrarot_pflanze.jpg
 INPUT bilder\infrarot_pflanze.jpg
@@ -667,6 +660,13 @@ INPUT .\bilder\infrarot_pflanze.jpg
 INPUT .\bilder\infrarot_pflanze.jpg
 INPUT .\bilder\infrarot_pflanze.jpg
 INPUT .\bilder\infrarot_pflanze.jpg
+INPUT .\bilder\infrarotsensor.png
+INPUT .\bilder\infrarotsensor.png
+INPUT bilder\infrarotsensor.png
+INPUT .\bilder\infrarotsensor.png
+INPUT .\bilder\infrarotsensor.png
+INPUT .\bilder\infrarotsensor.png
+INPUT .\bilder\infrarotsensor.png
 INPUT .\kapitel\thermistoren.tex
 INPUT kapitel\thermistoren.tex
 INPUT .\kapitel\thermistoren.tex

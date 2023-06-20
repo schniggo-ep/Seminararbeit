@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 00:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -489,30 +489,23 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
- (Seminararbeit_PfitzPfeitzner.aux
-
-LaTeX Warning: Label `fig:sprühdrohne' multiply defined.
-
-
-LaTeX Warning: Label `fig:sprühdrohne' multiply defined.
-
-)
+ (Seminararbeit_PfitzPfeitzner.aux)
 \openout1 = `Seminararbeit_PfitzPfeitzner.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -589,12 +582,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Seminararbeit_PfitzPfeitzner.bbl' found.
  (Seminararbeit_PfitzPfeitzner.bbl)
-Package biblatex Info: Reference section=0 on input line 36.
-Package biblatex Info: Reference segment=0 on input line 36.
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 45.
+(Font)              <14.4> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 45.
+(Font)              <7> on input line 46.
  [1
 
 
@@ -615,7 +608,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 chapter 1.
 (kapitel/einleitung.tex)
-Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--52
+Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--53
 \OT1/cmr/m/n/10.95 Vorallem die Au-to-mo-bil-in-dus-trie hat be-reits fr[]uh be-gon-nen sich mit Au-to-ma-ti-sie-rung zu besch[]aftigen.
  []
 
@@ -634,12 +627,12 @@ File: bilder/drohne_im_sprüheinsatz.png Graphic file (type png)
 Package pdftex.def Info: bilder/drohne_im_sprüheinsatz.png  used on input line 6.
 (pdftex.def)             Requested size: 227.62206pt x 151.6348pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 11--59
+Underfull \hbox (badness 10000) in paragraph at lines 11--60
 
  []
 
 
-Overfull \hbox (5.84262pt too wide) in paragraph at lines 11--59
+Overfull \hbox (5.84262pt too wide) in paragraph at lines 11--60
 \OT1/cmr/m/n/10.95 Ein zus[]atzliches weit ver-brei-te-tes Ein-satz-ge-biet von Droh-nen im All-ge-mei-nen ist die []Uberwachung. 
  []
 
@@ -664,23 +657,19 @@ Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 9.
 ) [4 <./bilder/farmbot.png> <./bilder/farmdroid_fd20.png>] [5]
 chapter 4.
 (kapitel/temperatursensor.tex (kapitel/infrarot.tex
-<bilder/infrarotsensor.png, id=31, 311.66437pt x 199.49532pt>
-File: bilder/infrarotsensor.png Graphic file (type png)
-<use bilder/infrarotsensor.png>
-Package pdftex.def Info: bilder/infrarotsensor.png  used on input line 11.
-(pdftex.def)             Requested size: 227.62206pt x 145.70341pt.
-<bilder/infrarot_pflanze.jpg, id=33, 883.3pt x 662.475pt>
+<bilder/infrarot_pflanze.jpg, id=31, 883.3pt x 662.475pt>
 File: bilder/infrarot_pflanze.jpg Graphic file (type jpg)
 <use bilder/infrarot_pflanze.jpg>
-Package pdftex.def Info: bilder/infrarot_pflanze.jpg  used on input line 18.
+Package pdftex.def Info: bilder/infrarot_pflanze.jpg  used on input line 10.
 (pdftex.def)             Requested size: 227.62206pt x 170.71304pt.
+<bilder/infrarotsensor.png, id=32, 311.66437pt x 199.49532pt>
+File: bilder/infrarotsensor.png Graphic file (type png)
+<use bilder/infrarotsensor.png>
+Package pdftex.def Info: bilder/infrarotsensor.png  used on input line 29.
+(pdftex.def)             Requested size: 227.62206pt x 145.70341pt.
+ [6
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex [6
-
- <./bilder/infrarotsensor.png>])) (kapitel/bodenfeuchtigkeitssensor.tex (kapitel/kapazitive Sensoren.tex)) (kapitel/nahinfrarotspektroskopie.tex [7 <./bilder/infrarot_pflanze.jpg>]
+ <./bilder/infrarot_pflanze.jpg>]) (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex)) (kapitel/bodenfeuchtigkeitssensor.tex (kapitel/kapazitive Sensoren.tex) [7 <./bilder/infrarotsensor.png>]) (kapitel/nahinfrarotspektroskopie.tex
 <bilder/Krone NIR Control dual.jpg, id=44, 426.80597pt x 267.399pt>
 File: bilder/Krone NIR Control dual.jpg Graphic file (type jpg)
 <use bilder/Krone NIR Control dual.jpg>
@@ -699,7 +688,7 @@ File: bilder/futterroboter.jpg Graphic file (type jpg)
 Package pdftex.def Info: bilder/futterroboter.jpg  used on input line 16.
 (pdftex.def)             Requested size: 227.62206pt x 170.70569pt.
 ) (kapitel/bodenpflege.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--82
+Underfull \hbox (badness 10000) in paragraph at lines 1--83
 
  []
 
@@ -719,38 +708,35 @@ chapter 7.
 (kapitel/fazit.tex) [13
 
 ]
-Overfull \hbox (28.94846pt too wide) in paragraph at lines 95--95
+Overfull \hbox (28.94846pt too wide) in paragraph at lines 96--96
 \OT1/cmr/m/it/10.95 K[]unstliche In-tel-li-genz in der Pra-xis: An-wen-dung in Un-ter-neh-men und Bran-chen: KI wettbewerbs-
  []
 
 [14
 
-] (Seminararbeit_PfitzPfeitzner.lof)
+] [15] (Seminararbeit_PfitzPfeitzner.lof)
 \tf@lof=\write5
 \openout5 = `Seminararbeit_PfitzPfeitzner.lof'.
 
- [15
+ [16
 
 ] (Seminararbeit_PfitzPfeitzner.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 \openout1 = `Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16956 strings out of 475385
- 369061 string characters out of 2775491
- 1404215 words of memory out of 3000000
- 38103 multiletter control sequences out of 15000+600000
+ 16960 strings out of 475385
+ 369245 string characters out of 2775491
+ 1404217 words of memory out of 3000000
+ 38107 multiletter control sequences out of 15000+600000
  475901 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,19n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Schniggo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (17 pages, 4593756 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (18 pages, 4595109 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 125 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

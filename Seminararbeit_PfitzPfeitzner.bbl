@@ -66,6 +66,27 @@
       \verb https://www.donaukurier.de/archiv/roboter-auf-dem-feld-6203116
       \endverb
     \endentry
+    \entry{may2015transiente}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0998a50a311829458919ab3da550a432}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima Eng\bibnamedelima Daniel},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0998a50a311829458919ab3da550a432}
+      \strng{fullhash}{0998a50a311829458919ab3da550a432}
+      \strng{bibnamehash}{0998a50a311829458919ab3da550a432}
+      \strng{authorbibnamehash}{0998a50a311829458919ab3da550a432}
+      \strng{authornamehash}{0998a50a311829458919ab3da550a432}
+      \strng{authorfullhash}{0998a50a311829458919ab3da550a432}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transiente Methoden der Infrarot-Thermografie zur zerstörungsfreien Fehleranalytik in der mikroelektronischen Aufbau-und Verbindungstechnik}
+      \field{year}{2015}
+    \endentry
     \entry{schuster2004infrarotthermographie}{book}{}
       \name{author}{2}{}{%
         {{hash=ad85481c524da3e4e6941cb478ba21de}{%
@@ -88,8 +109,8 @@
       \strng{authorbibnamehash}{e4e164b15a6bd145880914201d3f0133}
       \strng{authornamehash}{e4e164b15a6bd145880914201d3f0133}
       \strng{authorfullhash}{e4e164b15a6bd145880914201d3f0133}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Infrarotthermographie}
@@ -117,8 +138,8 @@
       \strng{authorbibnamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
       \strng{authornamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
       \strng{authorfullhash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sensoren in Wissenschaft und Technik: Funktionsweise und Einsatzgebiete}
@@ -144,8 +165,8 @@
       \strng{authorbibnamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authornamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authorfullhash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Handbuch der Technischen Temperaturmessung}
@@ -173,8 +194,8 @@
       \strng{authorbibnamehash}{18c451e8bedfd6be0751f450af5358b0}
       \strng{authornamehash}{18c451e8bedfd6be0751f450af5358b0}
       \strng{authorfullhash}{18c451e8bedfd6be0751f450af5358b0}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ETG Fachtagung „Diagnostik elektrotechnischer Betriebsmittel “, Fachbericht}
@@ -206,8 +227,8 @@
       \strng{authorbibnamehash}{03aece6081c7b6028331315abcdb6534}
       \strng{authornamehash}{03aece6081c7b6028331315abcdb6534}
       \strng{authorfullhash}{03aece6081c7b6028331315abcdb6534}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Practical Spectroscopy Series}
@@ -239,8 +260,8 @@
       \strng{authorbibnamehash}{4bb1108b2b087d60a6c8530bc104205b}
       \strng{authornamehash}{4bb1108b2b087d60a6c8530bc104205b}
       \strng{authorfullhash}{4bb1108b2b087d60a6c8530bc104205b}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Food Science \& Technology}
