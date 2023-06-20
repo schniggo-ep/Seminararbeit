@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 13:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -484,7 +484,92 @@ Package biblatex Info: ... and expl3
 Package: xparse 2022-06-22 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count403
+\svg@box=\box54
+\c@svg@param@currpage=\count404
+) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+))) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen152
+\pgfutil@tempdimb=\dimen153
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box55
+) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks24
 ))
+\pgf@x=\dimen154
+\pgf@y=\dimen155
+\pgf@xa=\dimen156
+\pgf@ya=\dimen157
+\pgf@xb=\dimen158
+\pgf@yb=\dimen159
+\pgf@xc=\dimen160
+\pgf@yc=\dimen161
+\pgf@xd=\dimen162
+\pgf@yd=\dimen163
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count405
+\c@pgf@countb=\count406
+\c@pgf@countc=\count407
+\c@pgf@countd=\count408
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count409
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count410
+\pgfsyssoftpath@bigbuffer@items=\count411
+) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -492,20 +577,20 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (Seminararbeit_PfitzPfeitzner.aux)
 \openout1 = `Seminararbeit_PfitzPfeitzner.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -543,26 +628,38 @@ LaTeX Font Info:    ... okay on input line 37.
 
 (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count403
-\scratchdimen=\dimen152
-\scratchbox=\box54
-\nofMPsegments=\count404
-\nofMParguments=\count405
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count406
-\MPscratchDim=\dimen153
-\MPnumerator=\count407
-\makeMPintoPDFobject=\count408
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count412
+\scratchdimen=\dimen164
+\scratchbox=\box56
+\nofMPsegments=\count413
+\nofMParguments=\count414
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count415
+\MPscratchDim=\dimen165
+\MPnumerator=\count416
+\makeMPintoPDFobject=\count417
+\everyMPtoPDFconversion=\toks29
 ) (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+
+Package scrlayer-scrpage Warning: Very small head height detected!
+(scrlayer-scrpage)                Using scrlayer-scrpage the head height
+(scrlayer-scrpage)                should be at least \baselineskip, which is
+(scrlayer-scrpage)                20.40001pt currently.
+(scrlayer-scrpage)                But head height is currently 17.0pt only.
+(scrlayer-scrpage)                You may use
+(scrlayer-scrpage)                geometry option `head=20.40001pt'
+(scrlayer-scrpage)                or load package `scrlayer-scrpage' with
+(scrlayer-scrpage)                option `singlespacing=true'
+(scrlayer-scrpage)                to avoid this warning.
+
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
- (C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
+(C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
 File: ngerman.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
@@ -582,12 +679,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Seminararbeit_PfitzPfeitzner.bbl' found.
  (Seminararbeit_PfitzPfeitzner.bbl)
-Package biblatex Info: Reference section=0 on input line 37.
-Package biblatex Info: Reference segment=0 on input line 37.
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 46.
+(Font)              <14.4> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 48.
  [1
 
 
@@ -600,17 +697,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
 )
-\tf@toc=\write4
-\openout4 = `Seminararbeit_PfitzPfeitzner.toc'.
+\tf@toc=\write5
+\openout5 = `Seminararbeit_PfitzPfeitzner.toc'.
 
  [2
 
 ]
 chapter 1.
 (kapitel/einleitung.tex)
-Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--53
+Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--55
 \OT1/cmr/m/n/10.95 Vorallem die Au-to-mo-bil-in-dus-trie hat be-reits fr[]uh be-gon-nen sich mit Au-to-ma-ti-sie-rung zu besch[]aftigen.
  []
+
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 20.4pt needed,
+(scrlayer-scrpage)                but only 17.0pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=20.4pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 55.
+
+
+Overfull \vbox (3.4pt too high) has occurred while \output is active []
+
+
+
+Package scrlayer-scrpage Warning: \footheight to low.
+(scrlayer-scrpage)                At least 20.4pt needed,
+(scrlayer-scrpage)                but only 17.0pt found.
+(scrlayer-scrpage)                I'll enlarge \footheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., using
+(scrlayer-scrpage)                  \setlength{\footheight}{20.4pt}
+(scrlayer-scrpage)                in your preamble.
+(scrlayer-scrpage)                I'll also increase \footskip on input line 55.
 
 [1
 
@@ -621,104 +743,124 @@ chapter 2.
 ]
 chapter 3.
 (kapitel/drohnen.tex
-<bilder/drohne_im_sprüheinsatz.png, id=18, 694.595pt x 462.72874pt>
+<bilder/drohne_im_sprüheinsatz.png, id=21, 694.595pt x 462.72874pt>
 File: bilder/drohne_im_sprüheinsatz.png Graphic file (type png)
 <use bilder/drohne_im_sprüheinsatz.png>
 Package pdftex.def Info: bilder/drohne_im_sprüheinsatz.png  used on input line 6.
-(pdftex.def)             Requested size: 227.62206pt x 151.6348pt.
+(pdftex.def)             Requested size: 318.66948pt x 212.3pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 11--60
+Underfull \hbox (badness 10000) in paragraph at lines 11--62
 
  []
 
 
-Overfull \hbox (5.84262pt too wide) in paragraph at lines 11--60
+Overfull \hbox (5.84262pt too wide) in paragraph at lines 11--62
 \OT1/cmr/m/n/10.95 Ein zus[]atzliches weit ver-brei-te-tes Ein-satz-ge-biet von Droh-nen im All-ge-mei-nen ist die []Uberwachung. 
  []
 
-(kapitel/schienensysteme.tex
+[3
+
+ <./bilder/drohne_im_sprüheinsatz.png>] (kapitel/schienensysteme.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
  []
 
-<bilder/farmbot.png, id=19, 495.56572pt x 231.47049pt>
+<bilder/farmbot.png, id=25, 495.56572pt x 231.47049pt>
 File: bilder/farmbot.png Graphic file (type png)
 <use bilder/farmbot.png>
 Package pdftex.def Info: bilder/farmbot.png  used on input line 11.
-(pdftex.def)             Requested size: 227.62206pt x 106.31877pt.
-) [3
-
- <./bilder/drohne_im_sprüheinsatz.png>] (kapitel/roboterfahrzeuge.tex
-<bilder/farmdroid_fd20.png, id=23, 1196.47pt x 844.15375pt>
+(pdftex.def)             Requested size: 318.66948pt x 148.84344pt.
+) (kapitel/roboterfahrzeuge.tex [4 <./bilder/farmbot.png>]
+<bilder/farmdroid_fd20.png, id=29, 1196.47pt x 844.15375pt>
 File: bilder/farmdroid_fd20.png Graphic file (type png)
 <use bilder/farmdroid_fd20.png>
 Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 9.
 (pdftex.def)             Requested size: 227.62206pt x 160.59697pt.
-) [4 <./bilder/farmbot.png> <./bilder/farmdroid_fd20.png>] [5]
+) [5 <./bilder/farmdroid_fd20.png>]
 chapter 4.
 (kapitel/temperatursensor.tex (kapitel/infrarot.tex
-<bilder/infrarot_pflanze.jpg, id=31, 883.3pt x 662.475pt>
+<bilder/infrarot_pflanze.jpg, id=34, 883.3pt x 662.475pt>
 File: bilder/infrarot_pflanze.jpg Graphic file (type jpg)
 <use bilder/infrarot_pflanze.jpg>
 Package pdftex.def Info: bilder/infrarot_pflanze.jpg  used on input line 10.
-(pdftex.def)             Requested size: 227.62206pt x 170.71304pt.
-<bilder/infrarotsensor.png, id=32, 311.66437pt x 199.49532pt>
+(pdftex.def)             Requested size: 318.66948pt x 239.00635pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<bilder/infrarotsensor.png, id=35, 311.66437pt x 199.49532pt>
 File: bilder/infrarotsensor.png Graphic file (type png)
 <use bilder/infrarotsensor.png>
-Package pdftex.def Info: bilder/infrarotsensor.png  used on input line 29.
-(pdftex.def)             Requested size: 227.62206pt x 145.70341pt.
- [6
+Package pdftex.def Info: bilder/infrarotsensor.png  used on input line 19.
+(pdftex.def)             Requested size: 318.66948pt x 203.98174pt.
+) [6
 
- <./bilder/infrarot_pflanze.jpg>]) (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex)) (kapitel/bodenfeuchtigkeitssensor.tex (kapitel/kapazitive Sensoren.tex) [7 <./bilder/infrarotsensor.png>]) (kapitel/nahinfrarotspektroskopie.tex
-<bilder/Krone NIR Control dual.jpg, id=44, 426.80597pt x 267.399pt>
+] (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex [7 <./bilder/infrarot_pflanze.jpg>])) (kapitel/bodenfeuchtigkeitssensor.tex (kapitel/kapazitive Sensoren.tex) [8 <./bilder/infrarotsensor.png>]) (kapitel/nahinfrarotspektroskopie.tex
+<bilder/Krone NIR Control dual.jpg, id=50, 426.80597pt x 267.399pt>
 File: bilder/Krone NIR Control dual.jpg Graphic file (type jpg)
 <use bilder/Krone NIR Control dual.jpg>
 Package pdftex.def Info: bilder/Krone NIR Control dual.jpg  used on input line 18.
-(pdftex.def)             Requested size: 227.62206pt x 142.61026pt.
-) [8 <./bilder/Krone NIR Control dual.jpg>]
+(pdftex.def)             Requested size: 318.66948pt x 199.65927pt.
+) [9 <./bilder/Krone NIR Control dual.jpg>]
 chapter 5.
 (kapitel/ernteundsaat.tex) (kapitel/tierpflege.tex
 Overfull \hbox (0.10922pt too wide) in paragraph at lines 1--13
 \OT1/cmr/m/n/10.95 Man ben[]otigt le-dig-lich ein Sys-tem, das Fut-ter von gro^^Yen La-ger-beh[]altern zu den St[]allen/Gehegen
  []
 
-<bilder/futterroboter.jpg, id=48, 1204.5pt x 903.375pt>
+<bilder/futterroboter.jpg, id=54, 1204.5pt x 903.375pt>
 File: bilder/futterroboter.jpg Graphic file (type jpg)
 <use bilder/futterroboter.jpg>
 Package pdftex.def Info: bilder/futterroboter.jpg  used on input line 16.
-(pdftex.def)             Requested size: 227.62206pt x 170.70569pt.
-) (kapitel/bodenpflege.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--83
+(pdftex.def)             Requested size: 318.66948pt x 239.00728pt.
+) [10
+
+] (kapitel/bodenpflege.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--85
 
  []
 
-[9
-
- <./bilder/futterroboter.jpg>] (kapitel/bewaesserung.tex
+(kapitel/bewaesserung.tex [11 <./bilder/futterroboter.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 35--45
 
  []
 
-) (kapitel/schaedlingsbekaempfung.tex) [10] [11]
+) (kapitel/schaedlingsbekaempfung.tex [12]
+Package svg Info: Last page of `./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf' is 2 on input line 21.
+ (svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf_tex
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=68, page=1, 1290.70267pt x 416.27722pt>
+File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 318.66948pt x 102.77325pt.
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=69, page=2, 1290.70267pt x 416.27722pt>
+File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 318.66948pt x 102.77325pt.
+)) [13 <./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf> <./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
 chapter 6.
-(kapitel/künstliche Intelligenz.tex) [12
+(kapitel/künstliche Intelligenz.tex) [14
 
 ]
 chapter 7.
-(kapitel/fazit.tex) [13
+(kapitel/fazit.tex) [15
+
+] [16
 
 ]
-Overfull \hbox (28.94846pt too wide) in paragraph at lines 96--96
+Overfull \hbox (28.94846pt too wide) in paragraph at lines 98--98
 \OT1/cmr/m/it/10.95 K[]unstliche In-tel-li-genz in der Pra-xis: An-wen-dung in Un-ter-neh-men und Bran-chen: KI wettbewerbs-
  []
 
-[14
+[17] (Seminararbeit_PfitzPfeitzner.lof)
+\tf@lof=\write6
+\openout6 = `Seminararbeit_PfitzPfeitzner.lof'.
 
-] [15] (Seminararbeit_PfitzPfeitzner.lof)
-\tf@lof=\write5
-\openout5 = `Seminararbeit_PfitzPfeitzner.lof'.
-
- [16
+ [18
 
 ] (Seminararbeit_PfitzPfeitzner.aux)
 Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
@@ -726,17 +868,17 @@ Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16960 strings out of 475385
- 369245 string characters out of 2775491
- 1404217 words of memory out of 3000000
- 38107 multiletter control sequences out of 15000+600000
+ 19171 strings out of 475385
+ 418726 string characters out of 2775491
+ 1456144 words of memory out of 3000000
+ 40225 multiletter control sequences out of 15000+600000
  475901 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,19n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Schniggo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (18 pages, 4595109 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (20 pages, 4643233 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
+ 227 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

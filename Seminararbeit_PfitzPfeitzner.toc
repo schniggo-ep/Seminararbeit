@@ -3,18 +3,18 @@
 \contentsline {chapter}{\numberline {2}Hauptteil}{2}{}%
 \contentsline {chapter}{\numberline {3}Systeme}{3}{}%
 \contentsline {section}{\numberline {3.1}Drohnen}{3}{}%
-\contentsline {section}{\numberline {3.2}Schienensysteme}{3}{}%
-\contentsline {section}{\numberline {3.3}Roboterfahrzeuge}{4}{}%
+\contentsline {section}{\numberline {3.2}Schienensysteme}{4}{}%
+\contentsline {section}{\numberline {3.3}Roboterfahrzeuge}{5}{}%
 \contentsline {chapter}{\numberline {4}Sensorik}{6}{}%
 \contentsline {section}{\numberline {4.1}Temperatursensor}{6}{}%
-\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{7}{}%
-\contentsline {section}{\numberline {4.3}Nahinfrarotspektroskopie}{8}{}%
-\contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{9}{}%
-\contentsline {section}{\numberline {5.1}Saat und Ernte}{9}{}%
-\contentsline {section}{\numberline {5.2}Tierpflege}{9}{}%
-\contentsline {section}{\numberline {5.3}Bodenpflege}{10}{}%
-\contentsline {section}{\numberline {5.4}Bewässerung}{10}{}%
-\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{10}{}%
-\contentsline {chapter}{\numberline {6}Künstliche Intelligenz}{12}{}%
-\contentsline {chapter}{\numberline {7}Fazit}{13}{}%
+\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{8}{}%
+\contentsline {section}{\numberline {4.3}Nahinfrarotspektroskopie}{9}{}%
+\contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{10}{}%
+\contentsline {section}{\numberline {5.1}Saat und Ernte}{10}{}%
+\contentsline {section}{\numberline {5.2}Tierpflege}{10}{}%
+\contentsline {section}{\numberline {5.3}Bodenpflege}{11}{}%
+\contentsline {section}{\numberline {5.4}Bewässerung}{11}{}%
+\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{12}{}%
+\contentsline {chapter}{\numberline {6}Künstliche Intelligenz}{14}{}%
+\contentsline {chapter}{\numberline {7}Fazit}{15}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
