@@ -19,6 +19,90 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{raff1987did}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e95b110debb2be642ada98adf8adb21e}{%
+           family={Raff},
+           familyi={R\bibinitperiod},
+           given={Daniel\bibnamedelima MG},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=99d97b6119dc8e6173e861cc94d01099}{%
+           family={Summers},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{cc7b6dcb20125e76f9960660f2afdfc9}
+      \strng{fullhash}{cc7b6dcb20125e76f9960660f2afdfc9}
+      \strng{bibnamehash}{cc7b6dcb20125e76f9960660f2afdfc9}
+      \strng{authorbibnamehash}{cc7b6dcb20125e76f9960660f2afdfc9}
+      \strng{authornamehash}{cc7b6dcb20125e76f9960660f2afdfc9}
+      \strng{authorfullhash}{cc7b6dcb20125e76f9960660f2afdfc9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{journal of Labor Economics}
+      \field{number}{4, Part 2}
+      \field{title}{Did Henry Ford pay efficiency wages?}
+      \field{volume}{5}
+      \field{year}{1987}
+      \field{pages}{S57\bibrangedash S86}
+      \range{pages}{-1}
+    \endentry
+    \entry{Drohne}{online}{}
+      \name{author}{1}{}{%
+        {{hash=153d951385c5fdca0deb46430d4c73e2}{%
+           family={DJI},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{fullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{bibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorbibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authornamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorfullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DJI und die Landwirtschaft}
+      \verb{urlraw}
+      \verb https://dji-official-fe.djicdn.com/dps/92018744568392976eaed6bad09a9f1f.jpg
+      \endverb
+      \verb{url}
+      \verb https://dji-official-fe.djicdn.com/dps/92018744568392976eaed6bad09a9f1f.jpg
+      \endverb
+      \warn{\item Entry 'Drohne' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{reh}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0b36fc985dc9eb74453aa3a3d7d0f049}{%
+           family={skyoptic},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b36fc985dc9eb74453aa3a3d7d0f049}
+      \strng{fullhash}{0b36fc985dc9eb74453aa3a3d7d0f049}
+      \strng{bibnamehash}{0b36fc985dc9eb74453aa3a3d7d0f049}
+      \strng{authorbibnamehash}{0b36fc985dc9eb74453aa3a3d7d0f049}
+      \strng{authornamehash}{0b36fc985dc9eb74453aa3a3d7d0f049}
+      \strng{authorfullhash}{0b36fc985dc9eb74453aa3a3d7d0f049}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wildtiersuche & Rehkitzrettung}
+      \verb{urlraw}
+      \verb https://www.skyoptik.at/wp-content/uploads/2020/06/dji-mavic-2-enterprise-dual-rehkitzrettung-und-wildtiersuche-paket28.jpg
+      \endverb
+      \verb{url}
+      \verb https://www.skyoptik.at/wp-content/uploads/2020/06/dji-mavic-2-enterprise-dual-rehkitzrettung-und-wildtiersuche-paket28.jpg
+      \endverb
+      \warn{\item Entry 'reh' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
+    \endentry
     \entry{farmBotExpress}{online}{}
       \name{author}{1}{}{%
         {{hash=2111e93b5644f0e95d6e69ff7f3075c6}{%
@@ -31,8 +115,8 @@
       \strng{authorbibnamehash}{2111e93b5644f0e95d6e69ff7f3075c6}
       \strng{authornamehash}{2111e93b5644f0e95d6e69ff7f3075c6}
       \strng{authorfullhash}{2111e93b5644f0e95d6e69ff7f3075c6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{FarmBot Express}
@@ -59,8 +143,8 @@
       \strng{authorbibnamehash}{678ede90703af65f16347b717bec9f27}
       \strng{authornamehash}{678ede90703af65f16347b717bec9f27}
       \strng{authorfullhash}{678ede90703af65f16347b717bec9f27}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Säen und Hacken: ein Job für den Roboter}
@@ -92,8 +176,8 @@
       \strng{authorbibnamehash}{655430f31289cdef49f37577047ad60f}
       \strng{authornamehash}{655430f31289cdef49f37577047ad60f}
       \strng{authorfullhash}{655430f31289cdef49f37577047ad60f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Arbeit unter einem DA-CH: Der Landwirt im 4.0-Modus}
@@ -103,8 +187,8 @@
       \range{pages}{1}
     \endentry
     \entry{donaukurier2022}{article}{}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Donaukurier}
       \field{title}{Roboter auf dem Feld}
@@ -157,8 +241,8 @@
       \strng{authorbibnamehash}{a8ae3efcc57194f157be645951677754}
       \strng{authornamehash}{a8ae3efcc57194f157be645951677754}
       \strng{authorfullhash}{6b1c876c68972ccdecefa26aebac1386}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{43. GIL-Jahrestagung, Resiliente Agri-Food-Systeme}
@@ -177,8 +261,8 @@
       \strng{authorbibnamehash}{8620ed3144b06522d498a963ece8b30b}
       \strng{authornamehash}{8620ed3144b06522d498a963ece8b30b}
       \strng{authorfullhash}{8620ed3144b06522d498a963ece8b30b}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Messung der Pflanzentemperatur}
@@ -287,8 +371,8 @@
       \strng{authorbibnamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
       \strng{authornamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
       \strng{authorfullhash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sensoren in Wissenschaft und Technik: Funktionsweise und Einsatzgebiete}
@@ -314,8 +398,8 @@
       \strng{authorbibnamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authornamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authorfullhash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Handbuch der Technischen Temperaturmessung}
@@ -343,8 +427,8 @@
       \strng{authorbibnamehash}{18c451e8bedfd6be0751f450af5358b0}
       \strng{authornamehash}{18c451e8bedfd6be0751f450af5358b0}
       \strng{authorfullhash}{18c451e8bedfd6be0751f450af5358b0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ETG Fachtagung „Diagnostik elektrotechnischer Betriebsmittel “, Fachbericht}
@@ -376,8 +460,8 @@
       \strng{authorbibnamehash}{03aece6081c7b6028331315abcdb6534}
       \strng{authornamehash}{03aece6081c7b6028331315abcdb6534}
       \strng{authorfullhash}{03aece6081c7b6028331315abcdb6534}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Practical Spectroscopy Series}
@@ -409,8 +493,8 @@
       \strng{authorbibnamehash}{4bb1108b2b087d60a6c8530bc104205b}
       \strng{authornamehash}{4bb1108b2b087d60a6c8530bc104205b}
       \strng{authorfullhash}{4bb1108b2b087d60a6c8530bc104205b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Food Science \& Technology}
@@ -526,8 +610,8 @@
       \strng{authorbibnamehash}{ac771301654628057e2fd1356c9509c6}
       \strng{authornamehash}{ac771301654628057e2fd1356c9509c6}
       \strng{authorfullhash}{ac771301654628057e2fd1356c9509c6}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Hygiene im Kuhstall und beim Melken}
@@ -566,8 +650,8 @@
       \strng{authorbibnamehash}{3260363237b5975711b2e39dc466264f}
       \strng{authornamehash}{3260363237b5975711b2e39dc466264f}
       \strng{authorfullhash}{3260363237b5975711b2e39dc466264f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Soils and foundations}
@@ -793,8 +877,8 @@
       \strng{authorbibnamehash}{2fe69b1c8f9114fce94d3ebc51c15824}
       \strng{authornamehash}{2fe69b1c8f9114fce94d3ebc51c15824}
       \strng{authorfullhash}{2fe69b1c8f9114fce94d3ebc51c15824}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Künstliche Intelligenz in der Praxis: Anwendung in Unternehmen und Branchen: KI wettbewerbs-und zukunftsorientiert einsetzen}
@@ -817,8 +901,8 @@
       \strng{authorbibnamehash}{336d1328028d2adc950d1ee07c1c0006}
       \strng{authornamehash}{336d1328028d2adc950d1ee07c1c0006}
       \strng{authorfullhash}{336d1328028d2adc950d1ee07c1c0006}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Der Diskurs der Überbevölkerung: zu Metaphorik und Funktion einer in Aussicht gestellten globalen Katastrophe}

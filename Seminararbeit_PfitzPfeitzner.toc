@@ -1,20 +1,20 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{}%
-\contentsline {chapter}{\numberline {2}Hauptteil}{2}{}%
-\contentsline {chapter}{\numberline {3}Systeme}{4}{}%
-\contentsline {section}{\numberline {3.1}Drohnen}{4}{}%
-\contentsline {section}{\numberline {3.2}Schienensysteme}{5}{}%
-\contentsline {section}{\numberline {3.3}Roboterfahrzeuge}{6}{}%
-\contentsline {chapter}{\numberline {4}Sensorik}{7}{}%
-\contentsline {section}{\numberline {4.1}Temperatursensor}{7}{}%
-\contentsline {section}{\numberline {4.2}Bodenfeuchtigkeitssensor}{9}{}%
-\contentsline {section}{\numberline {4.3}Nahinfrarotspektroskopie}{10}{}%
-\contentsline {chapter}{\numberline {5}Anwendungen in der Landwirtschaft}{12}{}%
-\contentsline {section}{\numberline {5.1}Saat und Ernte}{12}{}%
-\contentsline {section}{\numberline {5.2}Tierpflege}{13}{}%
-\contentsline {section}{\numberline {5.3}Bodenpflege}{14}{}%
-\contentsline {section}{\numberline {5.4}Bewässerung}{14}{}%
-\contentsline {section}{\numberline {5.5}Schädlingsbekämpfung}{16}{}%
-\contentsline {chapter}{\numberline {6}Künstliche Intelligenz}{17}{}%
-\contentsline {chapter}{\numberline {7}Fazit}{18}{}%
+\contentsline {section}{\numberline {1.1}Problemstellung und Motivation}{1}{}%
+\contentsline {section}{\numberline {1.2}Einführung in das Thema der Arbeit}{2}{}%
+\contentsline {chapter}{\numberline {2}Systeme}{3}{}%
+\contentsline {section}{\numberline {2.1}Drohnen}{3}{}%
+\contentsline {section}{\numberline {2.2}Schienensysteme}{4}{}%
+\contentsline {section}{\numberline {2.3}Roboterfahrzeuge}{5}{}%
+\contentsline {chapter}{\numberline {3}Sensorik}{7}{}%
+\contentsline {section}{\numberline {3.1}Temperatursensor}{7}{}%
+\contentsline {section}{\numberline {3.2}Bodenfeuchtigkeitssensor}{9}{}%
+\contentsline {section}{\numberline {3.3}Nahinfrarotspektroskopie}{10}{}%
+\contentsline {chapter}{\numberline {4}Anwendungen in der Landwirtschaft}{12}{}%
+\contentsline {section}{\numberline {4.1}Saat und Ernte}{12}{}%
+\contentsline {section}{\numberline {4.2}Tierpflege}{13}{}%
+\contentsline {section}{\numberline {4.3}Bewässerung}{14}{}%
+\contentsline {section}{\numberline {4.4}Schädlingsbekämpfung}{15}{}%
+\contentsline {chapter}{\numberline {5}Künstliche Intelligenz}{17}{}%
+\contentsline {chapter}{\numberline {6}Fazit}{18}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

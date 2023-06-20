@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 20:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.12)  20 JUN 2023 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -577,20 +577,20 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (Seminararbeit_PfitzPfeitzner.aux)
 \openout1 = `Seminararbeit_PfitzPfeitzner.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -681,6 +681,16 @@ Package biblatex Info: ... file 'Seminararbeit_PfitzPfeitzner.bbl' found.
  (Seminararbeit_PfitzPfeitzner.bbl
 
 Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Drohne':
+(biblatex)                - Entry 'Drohne' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'reh':
+(biblatex)                - Entry 'reh' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'farmBotExpress':
 (biblatex)                - Entry 'farmBotExpress' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring.
 
@@ -722,35 +732,37 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 38.
-Package biblatex Info: Reference segment=0 on input line 38.
+Package biblatex Info: Reference section=0 on input line 36.
+Package biblatex Info: Reference segment=0 on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 48.
+(Font)              <14.4> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 46.
  [1
 
 
 
-{C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Seminararbeit_PfitzPfeitzner.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
-)
+{C:/Users/Schniggo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+No file Seminararbeit_PfitzPfeitzner.toc.
 \tf@toc=\write5
 \openout5 = `Seminararbeit_PfitzPfeitzner.toc'.
 
- [2
+[2
 
 ]
 chapter 1.
 (kapitel/einleitung.tex)
-Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--55
+Overfull \hbox (21.23358pt too wide) in paragraph at lines 1--54
 \OT1/cmr/m/n/10.95 Vorallem die Au-to-mo-bil-in-dus-trie hat be-reits fr[]uh be-gon-nen sich mit Au-to-ma-ti-sie-rung zu besch[]aftigen.
  []
+
+(kapitel/hauptteil.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
 
 
 Package scrlayer-scrpage Warning: \headheight to low.
@@ -760,7 +772,7 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=20.4pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 55.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 9.
 
 
 Overfull \vbox (3.4pt too high) has occurred while \output is active []
@@ -775,63 +787,83 @@ Package scrlayer-scrpage Warning: \footheight to low.
 (scrlayer-scrpage)                e.g., using
 (scrlayer-scrpage)                  \setlength{\footheight}{20.4pt}
 (scrlayer-scrpage)                in your preamble.
-(scrlayer-scrpage)                I'll also increase \footskip on input line 55.
+(scrlayer-scrpage)                I'll also increase \footskip on input line 9.
 
 [1
 
-]
+]) [2]
 chapter 2.
-(kapitel/hauptteil.tex) [2
-
-] [3]
-chapter 3.
 (kapitel/drohnen.tex
-<bilder/drohne_im_sprüheinsatz.png, id=24, 694.595pt x 462.72874pt>
-File: bilder/drohne_im_sprüheinsatz.png Graphic file (type png)
-<use bilder/drohne_im_sprüheinsatz.png>
-Package pdftex.def Info: bilder/drohne_im_sprüheinsatz.png  used on input line 6.
-(pdftex.def)             Requested size: 318.66948pt x 212.3pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 11--62
+<bilder/drtohne.jpg, id=21, 2409.0pt x 1204.5pt>
+File: bilder/drtohne.jpg Graphic file (type jpg)
+<use bilder/drtohne.jpg>
+Package pdftex.def Info: bilder/drtohne.jpg  used on input line 9.
+(pdftex.def)             Requested size: 318.66948pt x 159.329pt.
+
+
+LaTeX Warning: Reference `fig:sprühdrohne' on page 3 undefined on input line 14.
+
+
+LaTeX Warning: Reference `fig:rehkitz' on page 3 undefined on input line 23.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--27
 
  []
 
 
-Overfull \hbox (5.84262pt too wide) in paragraph at lines 11--62
-\OT1/cmr/m/n/10.95 Ein zus[]atzliches weit ver-brei-te-tes Ein-satz-ge-biet von Droh-nen im All-ge-mei-nen ist die []Uberwachung. 
+Overfull \hbox (5.84262pt too wide) in paragraph at lines 14--27
+\OT1/cmr/m/n/10.95 Ein zus[]atzliches weit ver-brei-te-tes Ein-satz-ge-biet von Droh-nen im All-ge-mei-nen ist die []Uberwachung: 
  []
 
-[4
+<bilder/rteh.jpg, id=22, 601.4972pt x 401.24907pt>
+File: bilder/rteh.jpg Graphic file (type jpg)
+<use bilder/rteh.jpg>
+Package pdftex.def Info: bilder/rteh.jpg  used on input line 30.
+(pdftex.def)             Requested size: 318.66948pt x 212.58751pt.
+) [3
 
- <./bilder/drohne_im_sprüheinsatz.png>] (kapitel/schienensysteme.tex
+ <./bilder/drtohne.jpg>] (kapitel/schienensysteme.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
  []
 
-<bilder/farmbot.png, id=28, 495.56572pt x 231.47049pt>
+<bilder/farmbot.png, id=27, 495.56572pt x 231.47049pt>
 File: bilder/farmbot.png Graphic file (type png)
 <use bilder/farmbot.png>
 Package pdftex.def Info: bilder/farmbot.png  used on input line 11.
 (pdftex.def)             Requested size: 318.66948pt x 148.84344pt.
-) (kapitel/roboterfahrzeuge.tex [5 <./bilder/farmbot.png>]
-<bilder/farmdroid_fd20.png, id=33, 1196.47pt x 844.15375pt>
+
+LaTeX Warning: Reference `fig:farmbot' on page 4 undefined on input line 16.
+
+) [4 <./bilder/rteh.jpg> <./bilder/farmbot.png>] (kapitel/roboterfahrzeuge.tex
+<bilder/farmdroid_fd20.png, id=31, 1196.47pt x 844.15375pt>
 File: bilder/farmdroid_fd20.png Graphic file (type png)
 <use bilder/farmdroid_fd20.png>
 Package pdftex.def Info: bilder/farmdroid_fd20.png  used on input line 9.
 (pdftex.def)             Requested size: 318.66948pt x 224.83318pt.
-) [6 <./bilder/farmdroid_fd20.png>]
-chapter 4.
+
+
+LaTeX Warning: Reference `fig:farmdroid_fd20' on page 5 undefined on input line 14.
+
+) [5 <./bilder/farmdroid_fd20.png>] [6]
+chapter 3.
 (kapitel/temperatursensor.tex (kapitel/infrarot.tex
-<bilder/Measuring-crop-temperatures .jpeg, id=37, 602.25pt x 602.25pt>
+
+LaTeX Warning: Reference `fig:infrarot_pflanze' on page 7 undefined on input line 6.
+
+<bilder/Measuring-crop-temperatures .jpeg, id=39, 602.25pt x 602.25pt>
 File: bilder/Measuring-crop-temperatures .jpeg Graphic file (type jpg)
 <use bilder/Measuring-crop-temperatures .jpeg>
 Package pdftex.def Info: bilder/Measuring-crop-temperatures .jpeg  used on input line 10.
 (pdftex.def)             Requested size: 318.66948pt x 318.67636pt.
 
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<bilder/infrarotsensor.png, id=38, 311.66437pt x 199.49532pt>
+
+LaTeX Warning: Reference `fig:aufbau infrarotsensor' on page 7 undefined on input line 16.
+
+<bilder/infrarotsensor.png, id=40, 311.66437pt x 199.49532pt>
 File: bilder/infrarotsensor.png Graphic file (type png)
 <use bilder/infrarotsensor.png>
 Package pdftex.def Info: bilder/infrarotsensor.png  used on input line 19.
@@ -839,14 +871,21 @@ Package pdftex.def Info: bilder/infrarotsensor.png  used on input line 19.
 ) [7
 
 ] (kapitel/thermistoren.tex) (kapitel/thermoelemente.tex [8 <./bilder/Measuring-crop-temperatures .jpeg>])) (kapitel/bodenfeuchtigkeitssensor.tex (kapitel/kapazitive Sensoren.tex) [9 <./bilder/infrarotsensor.png>]) (kapitel/nahinfrarotspektroskopie.tex
-<bilder/Krone NIR Control dual.jpg, id=53, 426.80597pt x 267.399pt>
+
+LaTeX Warning: Reference `fig:Mähhdrescher NIR-Sensor' on page 10 undefined on input line 14.
+
+<bilder/Krone NIR Control dual.jpg, id=55, 426.80597pt x 267.399pt>
 File: bilder/Krone NIR Control dual.jpg Graphic file (type jpg)
 <use bilder/Krone NIR Control dual.jpg>
 Package pdftex.def Info: bilder/Krone NIR Control dual.jpg  used on input line 18.
 (pdftex.def)             Requested size: 318.66948pt x 199.65927pt.
 ) [10 <./bilder/Krone NIR Control dual.jpg>] [11]
-chapter 5.
+chapter 4.
 (kapitel/ernteundsaat.tex) (kapitel/tierpflege.tex
+
+LaTeX Warning: Reference `fig:futterroboter' on page 12 undefined on input line 12.
+
+
 Overfull \hbox (0.10922pt too wide) in paragraph at lines 1--13
 \OT1/cmr/m/n/10.95 Man ben[]otigt le-dig-lich ein Sys-tem, das Fut-ter von gro^^Yen La-ger-beh[]altern zu den St[]allen/Gehegen
  []
@@ -854,39 +893,41 @@ Overfull \hbox (0.10922pt too wide) in paragraph at lines 1--13
 [12
 
 ]
-<bilder/futterroboter.jpg, id=64, 1204.5pt x 903.375pt>
+<bilder/futterroboter.jpg, id=66, 1204.5pt x 903.375pt>
 File: bilder/futterroboter.jpg Graphic file (type jpg)
 <use bilder/futterroboter.jpg>
 Package pdftex.def Info: bilder/futterroboter.jpg  used on input line 16.
 (pdftex.def)             Requested size: 318.66948pt x 239.00728pt.
-<bilder/Spaltenroboter_agrarfoto.com_.jpg, id=65, 803.0pt x 573.14125pt>
+
+
+LaTeX Warning: Reference `fig:rroboter' on page 13 undefined on input line 22.
+
+<bilder/Spaltenroboter_agrarfoto.com_.jpg, id=67, 803.0pt x 573.14125pt>
 File: bilder/Spaltenroboter_agrarfoto.com_.jpg Graphic file (type jpg)
 <use bilder/Spaltenroboter_agrarfoto.com_.jpg>
 Package pdftex.def Info: bilder/Spaltenroboter_agrarfoto.com_.jpg  used on input line 26.
 (pdftex.def)             Requested size: 318.66948pt x 227.45088pt.
 
-
 LaTeX Warning: Citation 'agrarheute' on page 13 undefined on input line 45.
 
-) [13 <./bilder/futterroboter.jpg>] (kapitel/bodenpflege.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--85
+) [13 <./bilder/futterroboter.jpg>] (kapitel/bewaesserung.tex [14 <./bilder/Spaltenroboter_agrarfoto.com_.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--44
 
  []
 
-(kapitel/bewaesserung.tex [14 <./bilder/Spaltenroboter_agrarfoto.com_.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
+) (kapitel/schaedlingsbekaempfung.tex
 
- []
+LaTeX Warning: Reference `fig:schaedlingsbekaempfung' on page 15 undefined on input line 18.
 
-) (kapitel/schaedlingsbekaempfung.tex [15]
+[15]
 Package svg Info: Last page of `./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf' is 2 on input line 22.
  (svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf_tex
-<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=79, page=1, 1290.70267pt x 416.27722pt>
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=80, page=1, 1290.70267pt x 416.27722pt>
 File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 318.66948pt x 102.77325pt.
-<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=80, page=2, 1290.70267pt x 416.27722pt>
+<./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, id=81, page=2, 1290.70267pt x 416.27722pt>
 File: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , page2 used on input line 58.
@@ -895,53 +936,83 @@ Package pdftex.def Info: ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf , pag
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/schaedlingsbekaempfung_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-chapter 6.
+chapter 5.
 (kapitel/künstliche Intelligenz.tex) [17
 
 ]
-chapter 7.
+chapter 6.
 (kapitel/fazit.tex) [18
 
 ]
-Overfull \hbox (22.21303pt too wide) in paragraph at lines 98--98
+c:/Users/Schniggo/OneDrive - Technische Hochschule Ingolstadt/Textsatzsysteme/Seminararbeit/Seminararbeit_PfitzPfeitzner.tex:95: Misplaced alignment tab character &.
+<argument> Wildtiersuche &
+                           Rehkitzrettung
+l.95 	\listoffigures
+                    
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (19.38821pt too wide) in paragraph at lines 95--95
+\OT1/cmtt/m/n/10.95 uploads / 2020 / 06 / dji -[] mavic -[] 2 -[] enterprise -[] dual -[] rehkitzrettung -[] und -[] wildtiersuche -[]
+ []
+
+
+Overfull \hbox (22.21303pt too wide) in paragraph at lines 95--95
 []\OT1/cmr/m/n/10.95 python-exemplarisch. \OT1/cmr/m/it/10.95 Licht und Infrarot-Sensoren\OT1/cmr/m/n/10.95 . \OT1/cmr/m/sc/10.95 url\OT1/cmr/m/n/10.95 : $\OT1/cmtt/m/n/10.95 https : / / www . python -[] exemplarisch .
  []
 
 [19
 
 ]
-Overfull \hbox (14.71678pt too wide) in paragraph at lines 98--98
+Overfull \hbox (14.71678pt too wide) in paragraph at lines 95--95
 []\OT1/cmr/m/n/10.95 Ruhsamer Ame-lie. \OT1/cmr/m/it/10.95 Im Check: K[]uhe mit dem Ro-bo-ter f[]uttern\OT1/cmr/m/n/10.95 . \OT1/cmr/m/sc/10.95 url\OT1/cmr/m/n/10.95 : $\OT1/cmtt/m/n/10.95 https : / / www . agrarheute .
  []
 
 [20]
-Overfull \hbox (28.94846pt too wide) in paragraph at lines 98--98
+Overfull \hbox (28.94846pt too wide) in paragraph at lines 95--95
 \OT1/cmr/m/it/10.95 K[]unstliche In-tel-li-genz in der Pra-xis: An-wen-dung in Un-ter-neh-men und Bran-chen: KI wettbewerbs-
  []
 
-[21] (Seminararbeit_PfitzPfeitzner.lof)
+[21]
+No file Seminararbeit_PfitzPfeitzner.lof.
 \tf@lof=\write6
 \openout6 = `Seminararbeit_PfitzPfeitzner.lof'.
 
- [22
+[22
 
 ] (Seminararbeit_PfitzPfeitzner.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Seminararbeit_PfitzPfeitzner
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Seminararbeit_PfitzPfeitzner.run.xml'.
 \openout1 = `Seminararbeit_PfitzPfeitzner.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19215 strings out of 475385
- 420616 string characters out of 2775491
- 1458759 words of memory out of 3000000
- 40266 multiletter control sequences out of 15000+600000
+ 19217 strings out of 475385
+ 420323 string characters out of 2775491
+ 1456783 words of memory out of 3000000
+ 40274 multiletter control sequences out of 15000+600000
  476209 words of font info for 51 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,19n,106p,10717b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Schniggo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Schniggo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Seminararbeit_PfitzPfeitzner.pdf (24 pages, 4894440 bytes).
+Output written on Seminararbeit_PfitzPfeitzner.pdf (24 pages, 5189706 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
+ 246 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
