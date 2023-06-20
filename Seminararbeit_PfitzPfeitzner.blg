@@ -1,15 +1,24 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'Seminararbeit_PfitzPfeitzner.blg'
-[305] biber-MSWIN64:340> INFO - === 
-[344] Biber.pm:418> INFO - Reading 'Seminararbeit_PfitzPfeitzner.bcf'
-[446] Biber.pm:978> INFO - Found 19 citekeys in bib section 0
-[461] Biber.pm:4401> INFO - Processing section 0
-[471] Biber.pm:4592> INFO - Looking for bibtex file 'ref/ref.bib' for section 0
-[527] bibtex.pm:1713> INFO - LaTeX decoding ...
-[548] bibtex.pm:1518> INFO - Found BibTeX data source 'ref/ref.bib'
-[648] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[649] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[649] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[649] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
-[666] bbl.pm:654> INFO - Writing 'Seminararbeit_PfitzPfeitzner.bbl' with encoding 'UTF-8'
-[674] bbl.pm:757> INFO - Output to Seminararbeit_PfitzPfeitzner.bbl
+[111] biber-MSWIN64:340> INFO - === 
+[152] Biber.pm:418> INFO - Reading 'Seminararbeit_PfitzPfeitzner.bcf'
+[262] Biber.pm:978> INFO - Found 27 citekeys in bib section 0
+[276] Biber.pm:4401> INFO - Processing section 0
+[289] Biber.pm:4592> INFO - Looking for bibtex file 'ref/ref.bib' for section 0
+[345] bibtex.pm:1713> INFO - LaTeX decoding ...
+[375] bibtex.pm:1518> INFO - Found BibTeX data source 'ref/ref.bib'
+[503] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[503] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[503] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[503] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[523] bbl.pm:654> INFO - Writing 'Seminararbeit_PfitzPfeitzner.bbl' with encoding 'UTF-8'
+[533] bbl.pm:757> INFO - Output to Seminararbeit_PfitzPfeitzner.bbl
+[534] Biber.pm:130> WARN - Entry 'farmBotExpress' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[534] Biber.pm:130> WARN - Entry 'Wurst' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[534] Biber.pm:130> WARN - Entry 'IRPflanze' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[534] Biber.pm:130> WARN - Entry 'IR' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[534] Biber.pm:130> WARN - Entry 'Krone' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[534] Biber.pm:130> WARN - Entry 'Futterroboter' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[534] Biber.pm:130> WARN - Entry 'Reinigungsroboter' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring
+[534] Biber.pm:130> WARN - I didn't find a database entry for 'agrarheute' (section 0)
+[534] Biber.pm:132> INFO - WARNINGS: 8

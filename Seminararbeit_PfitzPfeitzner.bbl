@@ -19,6 +19,60 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{farmBotExpress}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2111e93b5644f0e95d6e69ff7f3075c6}{%
+           family={farm.bot},
+           familyi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{2111e93b5644f0e95d6e69ff7f3075c6}
+      \strng{fullhash}{2111e93b5644f0e95d6e69ff7f3075c6}
+      \strng{bibnamehash}{2111e93b5644f0e95d6e69ff7f3075c6}
+      \strng{authorbibnamehash}{2111e93b5644f0e95d6e69ff7f3075c6}
+      \strng{authornamehash}{2111e93b5644f0e95d6e69ff7f3075c6}
+      \strng{authorfullhash}{2111e93b5644f0e95d6e69ff7f3075c6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FarmBot Express}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://cdn.shopify.com/s/files/1/2040/0289/files/DSC00260_2400x.JPG?7677
+      \endverb
+      \verb{url}
+      \verb https://cdn.shopify.com/s/files/1/2040/0289/files/DSC00260_2400x.JPG?7677
+      \endverb
+      \warn{\item Entry 'farmBotExpress' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Wurst}{online}{}
+      \name{author}{1}{}{%
+        {{hash=678ede90703af65f16347b717bec9f27}{%
+           family={Alain-Xavier},
+           familyi={A\bibinithyphendelim X\bibinitperiod},
+           given={Wurst},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{678ede90703af65f16347b717bec9f27}
+      \strng{fullhash}{678ede90703af65f16347b717bec9f27}
+      \strng{bibnamehash}{678ede90703af65f16347b717bec9f27}
+      \strng{authorbibnamehash}{678ede90703af65f16347b717bec9f27}
+      \strng{authornamehash}{678ede90703af65f16347b717bec9f27}
+      \strng{authorfullhash}{678ede90703af65f16347b717bec9f27}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Säen und Hacken: ein Job für den Roboter}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.ufarevue.ch/var/site/storage/images/9/4/6/3/293649-1-ger-CH/6039497_image_1_27_i1200.jpg
+      \endverb
+      \verb{url}
+      \verb https://www.ufarevue.ch/var/site/storage/images/9/4/6/3/293649-1-ger-CH/6039497_image_1_27_i1200.jpg
+      \endverb
+      \warn{\item Entry 'Wurst' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
+    \endentry
     \entry{jungwirth2022arbeitszeitbedarf}{article}{}
       \name{author}{2}{}{%
         {{hash=a16dbe01377d027523f694dd67a9f206}{%
@@ -38,8 +92,8 @@
       \strng{authorbibnamehash}{655430f31289cdef49f37577047ad60f}
       \strng{authornamehash}{655430f31289cdef49f37577047ad60f}
       \strng{authorfullhash}{655430f31289cdef49f37577047ad60f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Arbeit unter einem DA-CH: Der Landwirt im 4.0-Modus}
@@ -49,8 +103,8 @@
       \range{pages}{1}
     \endentry
     \entry{donaukurier2022}{article}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Donaukurier}
       \field{title}{Roboter auf dem Feld}
@@ -103,13 +157,63 @@
       \strng{authorbibnamehash}{a8ae3efcc57194f157be645951677754}
       \strng{authornamehash}{a8ae3efcc57194f157be645951677754}
       \strng{authorfullhash}{6b1c876c68972ccdecefa26aebac1386}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{43. GIL-Jahrestagung, Resiliente Agri-Food-Systeme}
       \field{title}{Wirtschaftlichkeitsbewertung eines Feldroboters auf Basis erster Erfahrungen im Praxiseinsatz}
       \field{year}{2023}
+    \endentry
+    \entry{IRPflanze}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8620ed3144b06522d498a963ece8b30b}{%
+           family={redusystems},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{8620ed3144b06522d498a963ece8b30b}
+      \strng{fullhash}{8620ed3144b06522d498a963ece8b30b}
+      \strng{bibnamehash}{8620ed3144b06522d498a963ece8b30b}
+      \strng{authorbibnamehash}{8620ed3144b06522d498a963ece8b30b}
+      \strng{authornamehash}{8620ed3144b06522d498a963ece8b30b}
+      \strng{authorfullhash}{8620ed3144b06522d498a963ece8b30b}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Messung der Pflanzentemperatur}
+      \verb{urlraw}
+      \verb https://www.redusystems.com/Articles/OR-000-999/image-thumb__645__image-text-brick/Measuring-crop-temperatures%20.jpeg
+      \endverb
+      \verb{url}
+      \verb https://www.redusystems.com/Articles/OR-000-999/image-thumb__645__image-text-brick/Measuring-crop-temperatures%20.jpeg
+      \endverb
+      \warn{\item Entry 'IRPflanze' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{IR}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ddd65e8a56ef00df79cada7704eaaaee}{%
+           family={python-exemplarisch},
+           familyi={p\bibinithyphendelim e\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddd65e8a56ef00df79cada7704eaaaee}
+      \strng{fullhash}{ddd65e8a56ef00df79cada7704eaaaee}
+      \strng{bibnamehash}{ddd65e8a56ef00df79cada7704eaaaee}
+      \strng{authorbibnamehash}{ddd65e8a56ef00df79cada7704eaaaee}
+      \strng{authornamehash}{ddd65e8a56ef00df79cada7704eaaaee}
+      \strng{authorfullhash}{ddd65e8a56ef00df79cada7704eaaaee}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Licht und Infrarot-Sensoren}
+      \verb{urlraw}
+      \verb https://www.python-exemplarisch.ch/raspi/rgifs/ls1.png
+      \endverb
+      \verb{url}
+      \verb https://www.python-exemplarisch.ch/raspi/rgifs/ls1.png
+      \endverb
+      \warn{\item Entry 'IR' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
     \endentry
     \entry{may2015transiente}{article}{}
       \name{author}{1}{}{%
@@ -125,8 +229,8 @@
       \strng{authorbibnamehash}{0998a50a311829458919ab3da550a432}
       \strng{authornamehash}{0998a50a311829458919ab3da550a432}
       \strng{authorfullhash}{0998a50a311829458919ab3da550a432}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Transiente Methoden der Infrarot-Thermografie zur zerstörungsfreien Fehleranalytik in der mikroelektronischen Aufbau-und Verbindungstechnik}
@@ -154,8 +258,8 @@
       \strng{authorbibnamehash}{e4e164b15a6bd145880914201d3f0133}
       \strng{authornamehash}{e4e164b15a6bd145880914201d3f0133}
       \strng{authorfullhash}{e4e164b15a6bd145880914201d3f0133}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Infrarotthermographie}
@@ -183,8 +287,8 @@
       \strng{authorbibnamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
       \strng{authornamehash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
       \strng{authorfullhash}{5e1c21ad5d6607cd0fd65f5c23f438f2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sensoren in Wissenschaft und Technik: Funktionsweise und Einsatzgebiete}
@@ -210,8 +314,8 @@
       \strng{authorbibnamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authornamehash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
       \strng{authorfullhash}{be4d89cb6ca424f1a2d57e7d0b39ae36}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Handbuch der Technischen Temperaturmessung}
@@ -239,8 +343,8 @@
       \strng{authorbibnamehash}{18c451e8bedfd6be0751f450af5358b0}
       \strng{authornamehash}{18c451e8bedfd6be0751f450af5358b0}
       \strng{authorfullhash}{18c451e8bedfd6be0751f450af5358b0}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ETG Fachtagung „Diagnostik elektrotechnischer Betriebsmittel “, Fachbericht}
@@ -317,6 +421,32 @@
       \field{pages}{72\bibrangedash 83}
       \range{pages}{12}
     \endentry
+    \entry{Krone}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8b97fd1abec66e78859f711896be0857}{%
+           family={agrarzeitung},
+           familyi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b97fd1abec66e78859f711896be0857}
+      \strng{fullhash}{8b97fd1abec66e78859f711896be0857}
+      \strng{bibnamehash}{8b97fd1abec66e78859f711896be0857}
+      \strng{authorbibnamehash}{8b97fd1abec66e78859f711896be0857}
+      \strng{authornamehash}{8b97fd1abec66e78859f711896be0857}
+      \strng{authorfullhash}{8b97fd1abec66e78859f711896be0857}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Krone kooperiert mit Zumhammer}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://imagesrv.adition.com/banners/3437/files/00/27/cd/85/000002608517.jpg
+      \endverb
+      \verb{url}
+      \verb https://imagesrv.adition.com/banners/3437/files/00/27/cd/85/000002608517.jpg
+      \endverb
+      \warn{\item Entry 'Krone' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
+    \endentry
     \entry{naik2016precision}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=a5999a3b0413d34990074339426f103d}{%
@@ -344,8 +474,8 @@
       \strng{authorbibnamehash}{61654627eb0f270df1f2c4c7bb10140a}
       \strng{authornamehash}{61654627eb0f270df1f2c4c7bb10140a}
       \strng{authorfullhash}{61654627eb0f270df1f2c4c7bb10140a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2016 international conference on inventive computation technologies (ICICT)}
@@ -354,6 +484,60 @@
       \field{year}{2016}
       \field{pages}{1\bibrangedash 3}
       \range{pages}{3}
+    \endentry
+    \entry{Futterroboter}{online}{}
+      \name{author}{1}{}{%
+        {{hash=458784282738fd38b421cf9212f5c254}{%
+           family={Amelie},
+           familyi={A\bibinitperiod},
+           given={Ruhsamer},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{458784282738fd38b421cf9212f5c254}
+      \strng{fullhash}{458784282738fd38b421cf9212f5c254}
+      \strng{bibnamehash}{458784282738fd38b421cf9212f5c254}
+      \strng{authorbibnamehash}{458784282738fd38b421cf9212f5c254}
+      \strng{authornamehash}{458784282738fd38b421cf9212f5c254}
+      \strng{authorfullhash}{458784282738fd38b421cf9212f5c254}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Im Check: Kühe mit dem Roboter füttern}
+      \verb{urlraw}
+      \verb https://www.agrarheute.com/sites/agrarheute.com/files/styles/bildergalerie_lg_2x/public/2019-08/hetwinfoto-46474946.webp
+      \endverb
+      \verb{url}
+      \verb https://www.agrarheute.com/sites/agrarheute.com/files/styles/bildergalerie_lg_2x/public/2019-08/hetwinfoto-46474946.webp
+      \endverb
+      \warn{\item Entry 'Futterroboter' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Reinigungsroboter}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ac771301654628057e2fd1356c9509c6}{%
+           family={Johanna},
+           familyi={J\bibinitperiod},
+           given={Mandl},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac771301654628057e2fd1356c9509c6}
+      \strng{fullhash}{ac771301654628057e2fd1356c9509c6}
+      \strng{bibnamehash}{ac771301654628057e2fd1356c9509c6}
+      \strng{authorbibnamehash}{ac771301654628057e2fd1356c9509c6}
+      \strng{authornamehash}{ac771301654628057e2fd1356c9509c6}
+      \strng{authorfullhash}{ac771301654628057e2fd1356c9509c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hygiene im Kuhstall und beim Melken}
+      \verb{urlraw}
+      \verb https://www.fleckvieh.at/wp-content/uploads/2020/09/Spaltenroboter_agrarfoto.com_.jpg
+      \endverb
+      \verb{url}
+      \verb https://www.fleckvieh.at/wp-content/uploads/2020/09/Spaltenroboter_agrarfoto.com_.jpg
+      \endverb
+      \warn{\item Entry 'Reinigungsroboter' (ref/ref.bib): Invalid format '2023-20-06' of date field 'urldate' - ignoring}
     \endentry
     \entry{liu2018self}{article}{}
       \name{author}{3}{}{%
@@ -382,8 +566,8 @@
       \strng{authorbibnamehash}{3260363237b5975711b2e39dc466264f}
       \strng{authornamehash}{3260363237b5975711b2e39dc466264f}
       \strng{authorfullhash}{3260363237b5975711b2e39dc466264f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Soils and foundations}
@@ -443,8 +627,8 @@
       \strng{authorbibnamehash}{d5874c141ef183a7dad3038173d046e9}
       \strng{authornamehash}{d5874c141ef183a7dad3038173d046e9}
       \strng{authorfullhash}{c47f0afee7281c0270e51dd2c604fc87}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{KW Korrespondenz Wasserwirtschaft,(ISSN: 1865-9926), S}
@@ -454,8 +638,8 @@
       \range{pages}{8}
     \endentry
     \entry{bvl}{article}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bundesamt für Verbraucherschutz und Lebensmittelsicherheit}
       \field{title}{Genehmigung von Pflanzenschutzmitteln für die Anwendung mit Drohnen in Weinbau-Steillagen}
@@ -488,8 +672,8 @@
       \strng{authorbibnamehash}{8a99b3b325a5ef4a51b843a491ad9697}
       \strng{authornamehash}{8a99b3b325a5ef4a51b843a491ad9697}
       \strng{authorfullhash}{8a99b3b325a5ef4a51b843a491ad9697}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Baumrinden-Monitoring der Pestizid-Belastung über die Luft: Eine toxikologische Bewertung}
@@ -509,8 +693,8 @@
       \strng{authorbibnamehash}{56544997fed82699cf7009ab6beb9707}
       \strng{authornamehash}{56544997fed82699cf7009ab6beb9707}
       \strng{authorfullhash}{56544997fed82699cf7009ab6beb9707}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Entwicklung einer Robotik-Lösung zur Schneckenbekämpfung in der Landwirtschaft}
@@ -577,8 +761,8 @@
       \strng{editorbibnamehash}{3283fe7ac4b87e781e6188803ee7dee5}
       \strng{editornamehash}{3283fe7ac4b87e781e6188803ee7dee5}
       \strng{editorfullhash}{10bd6effa731efa36dc2a85db8beb2a9}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{40. GIL-Jahrestagung, Digitalisierung für Mensch, Umwelt und Tier}
@@ -609,8 +793,8 @@
       \strng{authorbibnamehash}{2fe69b1c8f9114fce94d3ebc51c15824}
       \strng{authornamehash}{2fe69b1c8f9114fce94d3ebc51c15824}
       \strng{authorfullhash}{2fe69b1c8f9114fce94d3ebc51c15824}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Künstliche Intelligenz in der Praxis: Anwendung in Unternehmen und Branchen: KI wettbewerbs-und zukunftsorientiert einsetzen}
@@ -633,8 +817,8 @@
       \strng{authorbibnamehash}{336d1328028d2adc950d1ee07c1c0006}
       \strng{authornamehash}{336d1328028d2adc950d1ee07c1c0006}
       \strng{authorfullhash}{336d1328028d2adc950d1ee07c1c0006}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Der Diskurs der Überbevölkerung: zu Metaphorik und Funktion einer in Aussicht gestellten globalen Katastrophe}
@@ -642,6 +826,7 @@
       \field{year}{2003}
     \endentry
   \enddatalist
+  \missing{agrarheute}
 \endrefsection
 \endinput
 

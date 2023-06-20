@@ -803,13 +803,13 @@ INPUT .\kapitel\infrarot.tex
 INPUT kapitel\infrarot.tex
 INPUT .\kapitel\infrarot.tex
 INPUT kapitel\infrarot.tex
-INPUT .\bilder\infrarot_pflanze.jpg
-INPUT .\bilder\infrarot_pflanze.jpg
-INPUT bilder\infrarot_pflanze.jpg
-INPUT .\bilder\infrarot_pflanze.jpg
-INPUT .\bilder\infrarot_pflanze.jpg
-INPUT .\bilder\infrarot_pflanze.jpg
-INPUT .\bilder\infrarot_pflanze.jpg
+INPUT .\bilder\Measuring-crop-temperatures .jpeg
+INPUT .\bilder\Measuring-crop-temperatures .jpeg
+INPUT bilder\Measuring-crop-temperatures .jpeg
+INPUT .\bilder\Measuring-crop-temperatures .jpeg
+INPUT .\bilder\Measuring-crop-temperatures .jpeg
+INPUT .\bilder\Measuring-crop-temperatures .jpeg
+INPUT .\bilder\Measuring-crop-temperatures .jpeg
 INPUT .\bilder\infrarotsensor.png
 INPUT .\bilder\infrarotsensor.png
 INPUT bilder\infrarotsensor.png
@@ -865,6 +865,14 @@ INPUT .\bilder\futterroboter.jpg
 INPUT .\bilder\futterroboter.jpg
 INPUT .\bilder\futterroboter.jpg
 INPUT .\bilder\futterroboter.jpg
+INPUT .\bilder\Spaltenroboter_agrarfoto.com_.jpg
+INPUT .\bilder\Spaltenroboter_agrarfoto.com_.jpg
+INPUT bilder\Spaltenroboter_agrarfoto.com_.jpg
+INPUT .\bilder\Spaltenroboter_agrarfoto.com_.jpg
+INPUT .\bilder\Spaltenroboter_agrarfoto.com_.jpg
+INPUT .\bilder\Spaltenroboter_agrarfoto.com_.jpg
+INPUT .\bilder\Spaltenroboter_agrarfoto.com_.jpg
+INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT .\kapitel\bodenpflege.tex
 INPUT .\kapitel\bodenpflege.tex
 INPUT .\kapitel\bodenpflege.tex
@@ -936,6 +944,8 @@ INPUT Seminararbeit_PfitzPfeitzner.run.xml
 OUTPUT Seminararbeit_PfitzPfeitzner.run.xml
 INPUT C:\Users\Schniggo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\Schniggo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
+INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Schniggo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
